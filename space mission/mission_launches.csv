@@ -1,0 +1,965 @@
+Unnamed: 0.1,Unnamed: 0,Organisation,Location,Date,Detail,Rocket_Status,Price,Mission_Status,ISO
+0,0,SpaceX,USA,"Fri Aug 07, 2020 05:12 UTC",Falcon 9 Block 5 | Starlink V1 L9 & BlackSky,StatusActive,50.0,Success,USA
+1,1,CASC,China,"Thu Aug 06, 2020 04:01 UTC",Long March 2D | Gaofen-9 04 & Q-SAT,StatusActive,29.75,Success,CHN
+3,3,Roscosmos,Kazakhstan,"Thu Jul 30, 2020 21:25 UTC",Proton-M/Briz-M | Ekspress-80 & Ekspress-103,StatusActive,65.0,Success,KAZ
+4,4,ULA,USA,"Thu Jul 30, 2020 11:50 UTC",Atlas V 541 | Perseverance,StatusActive,145.0,Success,USA
+5,5,CASC,China,"Sat Jul 25, 2020 03:13 UTC","Long March 4B | Ziyuan-3 03, Apocalypse-10 & NJU-HKU 1",StatusActive,64.68,Success,CHN
+6,6,Roscosmos,Kazakhstan,"Thu Jul 23, 2020 14:26 UTC",Soyuz 2.1a | Progress MS-15,StatusActive,48.5,Success,KAZ
+8,8,SpaceX,USA,"Mon Jul 20, 2020 21:30 UTC",Falcon 9 Block 5 | ANASIS-II,StatusActive,50.0,Success,USA
+9,9,JAXA,Japan,"Sun Jul 19, 2020 21:58 UTC",H-IIA 202 | Hope Mars Mission,StatusActive,90.0,Success,JPN
+10,10,Northrop,USA,"Wed Jul 15, 2020 13:46 UTC",Minotaur IV | NROL-129,StatusActive,46.0,Success,USA
+11,11,ExPace,China,"Fri Jul 10, 2020 04:17 UTC","Kuaizhou 11 | Jilin-1 02E, CentiSpace-1 S2",StatusActive,28.3,Failure,CHN
+12,12,CASC,China,"Thu Jul 09, 2020 12:11 UTC",Long March 3B/E | Apstar-6D,StatusActive,29.15,Success,CHN
+14,14,CASC,China,"Sat Jul 04, 2020 23:44 UTC",Long March 2D | Shiyan-6 02,StatusActive,29.75,Success,CHN
+15,15,Rocket Lab,New Zealand,"Sat Jul 04, 2020 21:19 UTC",Electron/Curie | Pics Or It Didn??¦t Happen,StatusActive,7.5,Failure,NZL
+16,16,CASC,China,"Fri Jul 03, 2020 03:10 UTC",Long March 4B | Gaofen Duomo & BY-02,StatusActive,64.68,Success,CHN
+17,17,SpaceX,USA,"Tue Jun 30, 2020 20:10 UTC",Falcon 9 Block 5 | GPS III SV03,StatusActive,50.0,Success,USA
+18,18,CASC,China,"Tue Jun 23, 2020 01:43 UTC",Long March 3B/E | Beidou-3 G3,StatusActive,29.15,Success,CHN
+19,19,CASC,China,"Wed Jun 17, 2020 07:19 UTC","Long March 2D | Gaofen-9 03, Pixing III A & HEAD-5",StatusActive,29.75,Success,CHN
+20,20,SpaceX,USA,"Sat Jun 13, 2020 09:21 UTC",Falcon 9 Block 5 | Starlink V1 L8 & SkySat 16 to 18,StatusActive,50.0,Success,USA
+21,21,Rocket Lab,New Zealand,"Sat Jun 13, 2020 05:12 UTC",Electron/Curie | Don't stop me now!,StatusActive,7.5,Success,NZL
+22,22,CASC,China,"Wed Jun 10, 2020 18:31 UTC",Long March 2C | Haiyang-1D,StatusActive,30.8,Success,CHN
+23,23,SpaceX,USA,"Thu Jun 04, 2020 01:25 UTC",Falcon 9 Block 5 | Starlink V1 L7,StatusActive,50.0,Success,USA
+24,24,CASC,China,"Sun May 31, 2020 08:53 UTC",Long March 2D | Gaofen-9-02 & HEAD-4,StatusActive,29.75,Success,CHN
+25,25,SpaceX,USA,"Sat May 30, 2020 19:22 UTC",Falcon 9 Block 5 | SpaceX Demo-2,StatusActive,50.0,Success,USA
+26,26,CASC,China,"Fri May 29, 2020 20:13 UTC",Long March 11 | XJS-G and XJS-H,StatusActive,5.3,Success,CHN
+27,27,Virgin Orbit,USA,"Mon May 25, 2020 19:50 UTC",LauncherOne | Demo Flight,StatusActive,12.0,Failure,USA
+29,29,MHI,Japan,"Wed May 20, 2020 17:31 UTC",H-IIB | HTV-9,StatusRetired,112.5,Success,JPN
+30,30,ULA,USA,"Sun May 17, 2020 13:14 UTC",Atlas V 501 | OTV-6 (USSF-7),StatusActive,120.0,Success,USA
+33,33,Roscosmos,Kazakhstan,"Sat Apr 25, 2020 01:51 UTC",Soyuz 2.1a | Progress MS-14,StatusActive,48.5,Success,KAZ
+34,34,SpaceX,USA,"Wed Apr 22, 2020 19:30 UTC",Falcon 9 Block 5 | Starlink V1 L6,StatusActive,50.0,Success,USA
+36,36,CASC,China,"Thu Apr 09, 2020 11:46 UTC",Long March 3B/E | Nusantara Dua,StatusActive,29.15,Failure,CHN
+37,37,Roscosmos,Kazakhstan,"Thu Apr 09, 2020 08:05 UTC",Soyuz 2.1a | Soyuz MS-16,StatusActive,48.5,Success,KAZ
+38,38,ULA,USA,"Thu Mar 26, 2020 20:18 UTC",Atlas V 551 | AEHF 6,StatusActive,153.0,Success,USA
+39,39,CASC,China,"Tue Mar 24, 2020 03:43 UTC",Long March 2C | Yaogan-30-06,StatusActive,30.8,Success,CHN
+40,40,Arianespace,Kazakhstan,"Sat Mar 21, 2020 17:06 UTC",Soyuz 2.1b/Fregat | OneWeb #3,StatusActive,48.5,Success,KAZ
+41,41,SpaceX,USA,"Wed Mar 18, 2020 12:16 UTC",Falcon 9 Block 5 | Starlink V1 L5,StatusActive,50.0,Success,USA
+44,44,CASC,China,"Mon Mar 09, 2020 11:55 UTC",Long March 3B/E | Beidou-3 G2,StatusActive,29.15,Success,CHN
+45,45,SpaceX,USA,"Sat Mar 07, 2020 04:50 UTC",Falcon 9 Block 5 | CRS-20,StatusActive,50.0,Success,USA
+46,46,VKS RF,Russian Federation,"Thu Feb 20, 2020 08:24 UTC",Soyuz 2.1a/Fregat-M | Meridian-M n†­19L,StatusActive,48.5,Success,RUS
+47,47,CASC,China,"Wed Feb 19, 2020 21:07 UTC",Long March 2D | XJS-C to F,StatusActive,29.75,Success,CHN
+48,48,Arianespace,France,"Tue Feb 18, 2020 22:18 UTC",Ariane 5 ECA | JCSAT-17 & GEO-KOMPSAT 2B,StatusActive,200.0,Success,FRA
+49,49,SpaceX,USA,"Mon Feb 17, 2020 15:05 UTC",Falcon 9 Block 5 | Starlink V1 L4,StatusActive,50.0,Success,USA
+50,50,Northrop,USA,"Sat Feb 15, 2020 20:21 UTC",Antares 230+ | CRS NG-13,StatusActive,85.0,Success,USA
+51,51,ULA,USA,"Mon Feb 10, 2020 04:03 UTC",Atlas V 411 | Solar Orbiter,StatusActive,115.0,Success,USA
+53,53,MHI,Japan,"Sun Feb 09, 2020 01:34 UTC",H-IIA 202 | IGS-Optical 7,StatusActive,90.0,Success,JPN
+54,54,Arianespace,Kazakhstan,"Thu Feb 06, 2020 21:42 UTC",Soyuz 2.1b/Fregat | OneWeb #2,StatusActive,48.5,Success,KAZ
+55,55,Rocket Lab,New Zealand,"Fri Jan 31, 2020 02:56 UTC",Electron/Curie | Birds of a Feather / NROL-151,StatusActive,7.5,Success,NZL
+56,56,SpaceX,USA,"Wed Jan 29, 2020 14:06 UTC",Falcon 9 Block 5 | Starlink V1 L3,StatusActive,50.0,Success,USA
+57,57,SpaceX,USA,"Sun Jan 19, 2020 15:30 UTC",Falcon 9 Block 5 | Crew Dragon Inflight Abort Test,StatusActive,50.0,Success,USA
+58,58,Arianespace,France,"Thu Jan 16, 2020 21:05 UTC",Ariane 5 ECA | Eutelsat Konnect BB4A & GSAT-30,StatusActive,200.0,Success,FRA
+60,60,CASC,China,"Wed Jan 15, 2020 02:53 UTC",Long March 2D | Jilin-1 Wideband 01 & ??uSat-7/8,StatusActive,29.75,Success,CHN
+61,61,CASC,China,"Tue Jan 07, 2020 15:20 UTC",Long March 3B/E | TJSW-5,StatusActive,29.15,Success,CHN
+62,62,SpaceX,USA,"Tue Jan 07, 2020 02:19 UTC",Falcon 9 Block 5 | Starlink V1 L2,StatusActive,50.0,Success,USA
+64,64,VKS RF,Russian Federation,"Thu Dec 26, 2019 23:11 UTC","Rokot/Briz KM | Gonets-M ???24, 25, 26 [block-15] & Blits-M1",StatusRetired,41.8,Success,RUS
+65,65,Roscosmos,Kazakhstan,"Tue Dec 24, 2019 12:03 UTC",Proton-M/DM-3 | Elektro-L n†­3,StatusActive,65.0,Success,KAZ
+67,67,CASC,China,"Fri Dec 20, 2019 03:22 UTC","Long March 4B | CBERS-4A, ETRSS-1 & Others",StatusActive,64.68,Success,CHN
+69,69,SpaceX,USA,"Tue Dec 17, 2019 00:10 UTC",Falcon 9 Block 5 | JCSAT-18 / Kacific-1,StatusActive,50.0,Success,USA
+72,72,ISRO,India,"Wed Dec 11, 2019 09:55 UTC",PSLV-QL | RISAT 2BR1,StatusActive,21.0,Success,IND
+73,73,VKS RF,Russian Federation,"Wed Dec 11, 2019 08:54 UTC",Soyuz 2.1b/Fregat | Cosmos 2544,StatusActive,48.5,Success,RUS
+76,76,Roscosmos,Kazakhstan,"Fri Dec 06, 2019 09:34 UTC",Soyuz 2.1a | Progress MS-13 (74P),StatusActive,48.5,Success,KAZ
+77,77,Rocket Lab,New Zealand,"Fri Dec 06, 2019 08:18 UTC",Electron/Curie | Running Out Of Fingers,StatusActive,7.5,Success,NZL
+78,78,SpaceX,USA,"Thu Dec 05, 2019 17:29 UTC",Falcon 9 Block 5 | CRS-19,StatusActive,50.0,Success,USA
+79,79,CASC,China,"Wed Nov 27, 2019 23:52 UTC",Long March 4C | Gaofen-12,StatusActive,64.68,Success,CHN
+80,80,ISRO,India,"Wed Nov 27, 2019 03:58 UTC",PSLV-XL | Cartosat-3 & Rideshares,StatusActive,31.0,Success,IND
+81,81,Arianespace,France,"Tue Nov 26, 2019 21:23 UTC",Ariane 5 ECA | Inmarsat 5 F5 & TIBA-1,StatusActive,200.0,Success,FRA
+87,87,SpaceX,USA,"Mon Nov 11, 2019 14:56 UTC",Falcon 9 Block 5 | Starlink V1 L1,StatusActive,50.0,Success,USA
+88,88,CASC,China,"Mon Nov 04, 2019 17:43 UTC",Long March 3B/E | Beidou-3 IGSO-3,StatusActive,29.15,Success,CHN
+89,89,CASC,China,"Sun Nov 03, 2019 03:22 UTC",Long March 4B | Gaofen-7,StatusActive,64.68,Success,CHN
+90,90,Northrop,USA,"Sat Nov 02, 2019 13:59 UTC",Antares 230+ | CRS NG-12,StatusActive,85.0,Success,USA
+92,92,CASC,China,"Thu Oct 17, 2019 15:21 UTC",Long March 3B/E | TJSW-4,StatusActive,29.15,Success,CHN
+93,93,Rocket Lab,New Zealand,"Thu Oct 17, 2019 01:22 UTC",Electron/Curie | As The Crow Flies,StatusActive,7.5,Success,NZL
+94,94,Northrop,USA,"Fri Oct 11, 2019 01:59 UTC",Pegasus XL | ICON,StatusActive,40.0,Success,USA
+95,95,ILS,Kazakhstan,"Wed Oct 09, 2019 10:17 UTC",Proton-M/Briz-M | Eutelsat 5 West B & MEV-1,StatusActive,65.0,Success,KAZ
+96,96,CASC,China,"Fri Oct 04, 2019 18:51 UTC",Long March 4C | Gaofen 10 (Replacement),StatusActive,64.68,Success,CHN
+97,97,VKS RF,Russian Federation,"Thu Sep 26, 2019 07:46 UTC",Soyuz 2.1b/Fregat | Cosmos 2541,StatusActive,48.5,Success,RUS
+99,99,CASC,China,"Wed Sep 25, 2019 00:54 UTC",Long March 2D | Yunhai-1-02,StatusActive,29.75,Success,CHN
+100,100,MHI,Japan,"Tue Sep 24, 2019 16:05 UTC",H-IIB | HTV-8,StatusRetired,112.5,Success,JPN
+102,102,CASC,China,"Thu Sep 19, 2019 06:42 UTC",Long March 11 | Zhuhai-1 Group 03,StatusActive,5.3,Success,CHN
+103,103,CASC,China,"Thu Sep 12, 2019 03:26 UTC","Long March 4B | Ziyuan-2D, BNU-1 & Taurus-1",StatusActive,64.68,Success,CHN
+105,105,VKS RF,Russian Federation,"Fri Aug 30, 2019 14:00 UTC",Rokot/Briz KM | Cosmos 2540,StatusRetired,41.8,Success,RUS
+107,107,ULA,USA,"Thu Aug 22, 2019 13:06 UTC","Delta IV Medium+ (4,2) | GPS III SV02",StatusRetired,164.0,Success,USA
+108,108,Roscosmos,Kazakhstan,"Thu Aug 22, 2019 03:38 UTC",Soyuz 2.1a | Soyuz MS-14 (60S),StatusActive,48.5,Success,KAZ
+109,109,Rocket Lab,New Zealand,"Mon Aug 19, 2019 12:12 UTC","Electron/Curie | Look Ma, No Hands!",StatusActive,7.5,Success,NZL
+110,110,CASC,China,"Mon Aug 19, 2019 12:03 UTC",Long March 3B/E | ChinaSat 18,StatusActive,29.15,Success,CHN
+111,111,CASC,China,"Sat Aug 17, 2019 04:11 UTC",Jielong-1 | Tianqi-4 & Others,StatusActive,7.5,Success,CHN
+112,112,ULA,USA,"Thu Aug 08, 2019 10:13 UTC",Atlas V 551 | AEHF 5,StatusActive,153.0,Success,USA
+113,113,SpaceX,USA,"Tue Aug 06, 2019 23:23 UTC",Falcon 9 Block 5 | AMOS-17,StatusActive,50.0,Success,USA
+114,114,Arianespace,France,"Tue Aug 06, 2019 19:30 UTC",Ariane 5 ECA | EDRS-C/HYLAS 3 & Intelsat 39,StatusActive,200.0,Success,FRA
+115,115,Roscosmos,Kazakhstan,"Mon Aug 05, 2019 21:56 UTC",Proton-M/Briz-M | Cosmos 2539,StatusActive,65.0,Success,KAZ
+116,116,Roscosmos,Kazakhstan,"Wed Jul 31, 2019 12:10 UTC",Soyuz 2.1a | Progress MS-12,StatusActive,48.5,Success,KAZ
+117,117,VKS RF,Russian Federation,"Tue Jul 30, 2019 05:56 UTC",Soyuz 2.1a/Fregat-M | Meridian-M n†­18L,StatusActive,48.5,Success,RUS
+118,118,CASC,China,"Fri Jul 26, 2019 03:57 UTC",Long March 2C | Yaogan-30-05,StatusActive,30.8,Success,CHN
+119,119,SpaceX,USA,"Thu Jul 25, 2019 22:01 UTC",Falcon 9 Block 5 | CRS-18,StatusActive,50.0,Success,USA
+121,121,ISRO,India,"Mon Jul 22, 2019 09:13 UTC",GSLV Mk III | Chandrayaan-2 lunar mission,StatusActive,62.0,Success,IND
+123,123,Roscosmos,Kazakhstan,"Sat Jul 13, 2019 12:31 UTC",Proton-M/DM-3 | Spektr-RG,StatusActive,65.0,Success,KAZ
+124,124,Arianespace,France,"Thu Jul 11, 2019 01:53 UTC",Vega | Falcon Eye 1,StatusActive,37.0,Failure,FRA
+128,128,Rocket Lab,New Zealand,"Sat Jun 29, 2019 04:30 UTC",Electron/Curie | Make it Rain,StatusActive,7.5,Success,NZL
+129,129,SpaceX,USA,"Tue Jun 25, 2019 06:30 UTC",Falcon Heavy | STP-2,StatusActive,90.0,Success,USA
+130,130,CASC,China,"Mon Jun 24, 2019 18:09 UTC",Long March 3B/E | Beidou-3 IGSO-2,StatusActive,29.15,Success,CHN
+131,131,Arianespace,France,"Thu Jun 20, 2019 21:43 UTC",Ariane 5 ECA | Eutelsat 7C &  AT&T T-16,StatusActive,200.0,Success,FRA
+132,132,SpaceX,USA,"Wed Jun 12, 2019 14:17 UTC",Falcon 9 Block 5 | RADARSAT Constellation,StatusActive,50.0,Success,USA
+133,133,CASC,China,"Wed Jun 05, 2019 04:06 UTC",Long March 11H | Jilin-1 & Others,StatusActive,5.3,Success,CHN
+134,134,Roscosmos,Kazakhstan,"Thu May 30, 2019 17:42 UTC",Proton-M/Briz-M | Yamal-601,StatusActive,65.0,Success,KAZ
+136,136,SpaceX,USA,"Fri May 24, 2019 02:30 UTC",Falcon 9 Block 5 | Starlink V0.9,StatusActive,50.0,Success,USA
+137,137,CASC,China,"Wed May 22, 2019 22:55 UTC",Long March 4C | Yaogan Weixing-33,StatusActive,64.68,Failure,CHN
+138,138,ISRO,India,"Wed May 22, 2019 00:00 UTC",PSLV-CA | RISAT-2B,StatusActive,21.0,Success,IND
+140,140,Rocket Lab,New Zealand,"Sun May 05, 2019 06:00 UTC",Electron/Curie | That's a Funny Looking Cactus,StatusActive,7.5,Success,NZL
+141,141,SpaceX,USA,"Sat May 04, 2019 06:48 UTC",Falcon 9 Block 5 | CRS-17,StatusActive,50.0,Success,USA
+143,143,CASC,China,"Mon Apr 29, 2019 22:52 UTC",Long March 4B | Tianhui-2 Group 01,StatusActive,64.68,Success,CHN
+144,144,CASC,China,"Sat Apr 20, 2019 14:30 UTC",Long March 3B/E | Beidou-3 IGSO-1,StatusActive,29.15,Success,CHN
+145,145,Northrop,USA,"Wed Apr 17, 2019 20:46 UTC",Antares 230 | CRS NG-11,StatusRetired,85.0,Success,USA
+146,146,SpaceX,USA,"Thu Apr 11, 2019 22:35 UTC",Falcon Heavy | ArabSat 6A,StatusActive,90.0,Success,USA
+148,148,Roscosmos,Kazakhstan,"Thu Apr 04, 2019 11:01 UTC",Soyuz 2.1a | Progress MS-11 (72P),StatusActive,48.5,Success,KAZ
+149,149,ISRO,India,"Mon Apr 01, 2019 03:57 UTC",PSLV-QL | EMISAT & Rideshares,StatusActive,21.0,Success,IND
+150,150,CASC,China,"Sun Mar 31, 2019 15:51 UTC",Long March 3B/E | Tianlian-2,StatusActive,29.15,Success,CHN
+151,151,Rocket Lab,New Zealand,"Thu Mar 28, 2019 23:27 UTC",Electron/Curie | Two Thumbs Up,StatusActive,7.5,Success,NZL
+153,153,Arianespace,France,"Fri Mar 22, 2019 01:50 UTC",Vega | PRISMA,StatusActive,37.0,Success,FRA
+156,156,CASC,China,"Sat Mar 09, 2019 16:28 UTC",Long March 3B/E | Zhongxing-6C,StatusActive,29.15,Success,CHN
+158,158,SpaceX,USA,"Sat Mar 02, 2019 07:49 UTC",Falcon 9 Block 5 | SpaceX Demo-1,StatusActive,50.0,Success,USA
+160,160,SpaceX,USA,"Fri Feb 22, 2019 01:45 UTC",Falcon 9 Block 5 | Nusantara Satu & Beresheet,StatusActive,50.0,Success,USA
+162,162,Arianespace,France,"Tue Feb 05, 2019 21:01 UTC",Ariane 5 ECA | GSAT-31 & Hellas-Sat-4,StatusActive,200.0,Success,FRA
+166,166,CASC,China,"Mon Jan 21, 2019 05:42 UTC",Long March 11 | Jilin-1 Hyperspectral & Others,StatusActive,5.3,Success,CHN
+167,167,ULA,USA,"Sat Jan 19, 2019 19:10 UTC",Delta IV Heavy | NROL-71,StatusActive,350.0,Success,USA
+168,168,JAXA,Japan,"Fri Jan 18, 2019 00:50 UTC",Epsilon PBS | Innovative Satellite Technology Demonstration-1,StatusActive,39.0,Success,JPN
+170,170,SpaceX,USA,"Fri Jan 11, 2019 15:31 UTC",Falcon 9 Block 5 | Iridium-8,StatusActive,50.0,Success,USA
+171,171,CASC,China,"Thu Jan 10, 2019 17:11 UTC",Long March 3B/E | Zhongxing-2D (Chinasat-2D),StatusActive,29.15,Success,CHN
+173,173,Roscosmos,Russian Federation,"Thu Dec 27, 2018 02:07 UTC",Soyuz 2.1a/Fregat | Kanopus-V No. 5-6 & Rideshares,StatusActive,48.5,Success,RUS
+175,175,SpaceX,USA,"Sun Dec 23, 2018 13:51 UTC",Falcon 9 Block 5 | GPS III SV01,StatusActive,50.0,Success,USA
+176,176,CASC,China,"Fri Dec 21, 2018 23:51 UTC",Long March 11 | Hongyun-1,StatusActive,5.3,Success,CHN
+177,177,VKS RF,Kazakhstan,"Fri Dec 21, 2018 00:20 UTC",Proton-M/Briz-M | Blagovest No.13L,StatusActive,65.0,Success,KAZ
+179,179,ISRO,India,"Wed Dec 19, 2018 10:40 UTC",GSLV Mk II | GSAT-7A,StatusActive,47.0,Success,IND
+180,180,Rocket Lab,New Zealand,"Sun Dec 16, 2018 06:33 UTC",Electron/Curie | This one's for Pickering,StatusActive,7.5,Success,NZL
+181,181,CASC,China,"Fri Dec 07, 2018 18:23 UTC",Long March 3B/E | Chang'e-4,StatusActive,29.15,Success,CHN
+182,182,CASC,China,"Fri Dec 07, 2018 04:12 UTC","Long March 2D | SaudiSAT 5A, & 5B and Others",StatusActive,29.75,Success,CHN
+183,183,SpaceX,USA,"Wed Dec 05, 2018 18:16 UTC",Falcon 9 Block 5 | CRS-16,StatusActive,50.0,Success,USA
+184,184,Arianespace,France,"Tue Dec 04, 2018 20:37 UTC",Ariane 5 ECA | GSAT-11 & GEO-KOMPSAT 2A,StatusActive,200.0,Success,FRA
+185,185,SpaceX,USA,"Mon Dec 03, 2018 18:34 UTC",Falcon 9 Block 5 | Spaceflight SSO-A,StatusActive,50.0,Success,USA
+187,187,VKS RF,Russian Federation,"Fri Nov 30, 2018 02:27 UTC",Rokot/Briz KM | Cosmos 2530 to 2532,StatusRetired,41.8,Success,RUS
+188,188,ISRO,India,"Thu Nov 29, 2018 04:27 UTC",PSLV-CA | HySIS,StatusActive,21.0,Success,IND
+189,189,Arianespace,France,"Wed Nov 21, 2018 01:42 UTC",Vega | Mohammed VI-B,StatusActive,37.0,Success,FRA
+190,190,CASC,China,"Mon Nov 19, 2018 23:40 UTC","Long March 2D | Shiyan-6, Jiading-1 (OKW-01), & Others",StatusActive,29.75,Success,CHN
+192,192,Northrop,USA,"Sat Nov 17, 2018 09:01 UTC",Antares 230 | CRS NG-10,StatusRetired,85.0,Success,USA
+194,194,SpaceX,USA,"Thu Nov 15, 2018 20:46 UTC",Falcon 9 Block 5 | Es'hail 2,StatusActive,50.0,Success,USA
+195,195,ISRO,India,"Wed Nov 14, 2018 11:38 UTC",GSLV Mk III | GSAT 29,StatusActive,62.0,Success,IND
+196,196,Rocket Lab,New Zealand,"Sun Nov 11, 2018 03:50 UTC",Electron/Curie | It's Business Time,StatusActive,7.5,Success,NZL
+198,198,VKS RF,Russian Federation,"Sat Nov 03, 2018 20:17 UTC",Soyuz 2.1b/Fregat | GLONASS-M No.54S,StatusActive,48.5,Success,RUS
+199,199,CASC,China,"Thu Nov 01, 2018 15:57 UTC",Long March 3B/E | Beidou-3 G1,StatusActive,29.15,Success,CHN
+200,200,MHI,Japan,"Mon Oct 29, 2018 04:08 UTC","H-IIA 202 | Ibuki 2, KhalifaSat & Others",StatusActive,90.0,Success,JPN
+201,201,CASC,China,"Mon Oct 29, 2018 00:47 UTC","Long March 2C | CFOSAT, Zhaojin-1, Hongyan-1, & Others",StatusActive,30.8,Success,CHN
+203,203,Roscosmos,Russian Federation,"Thu Oct 25, 2018 00:15 UTC",Soyuz 2.1b | Lotus-S No.4,StatusActive,35.0,Success,RUS
+204,204,CASC,China,"Wed Oct 24, 2018 22:57 UTC",Long March 4B | Haiyang-2B,StatusActive,64.68,Success,CHN
+205,205,Arianespace,France,"Sat Oct 20, 2018 01:45 UTC",Ariane 5 ECA | BepiColombo,StatusActive,200.0,Success,FRA
+206,206,ULA,USA,"Wed Oct 17, 2018 04:15 UTC",Atlas V 551 | AEHF-4,StatusActive,153.0,Success,USA
+209,209,CASC,China,"Tue Oct 09, 2018 02:43 UTC",Long March 2C | Yaogan-32 Group 01,StatusActive,30.8,Success,CHN
+210,210,SpaceX,USA,"Mon Oct 08, 2018 02:21 UTC",Falcon 9 Block 5 | SAOCOM 1A,StatusActive,50.0,Success,USA
+212,212,Arianespace,France,"Tue Sep 25, 2018 22:38 UTC",Ariane 5 ECA | Horizons-3e & Azerspace 2/Intelsat 38,StatusActive,200.0,Success,FRA
+213,213,MHI,Japan,"Sat Sep 22, 2018 17:52 UTC",H-IIB | HTV-7,StatusRetired,112.5,Success,JPN
+215,215,ISRO,India,"Sun Sep 16, 2018 16:38 UTC",PSLV-CA | SSTL-1 & NovaSAR-S,StatusActive,21.0,Success,IND
+217,217,SpaceX,USA,"Mon Sep 10, 2018 04:45 UTC",Falcon 9 Block 5 | Telstar 18V / APStar 5C,StatusActive,50.0,Success,USA
+218,218,CASC,China,"Fri Sep 07, 2018 03:15 UTC",Long March 2C | Haiyang 1C (HY-1C),StatusActive,30.8,Success,CHN
+221,221,Arianespace,France,"Wed Aug 22, 2018 21:20 UTC",Vega | ADM-Aeolus,StatusActive,37.0,Success,FRA
+222,222,ULA,USA,"Sun Aug 12, 2018 07:31 UTC",Delta IV Heavy | Parker Solar Probe,StatusActive,350.0,Success,USA
+223,223,SpaceX,USA,"Tue Aug 07, 2018 05:18 UTC",Falcon 9 Block 5 | Merah Putih (Telkom-4),StatusActive,50.0,Success,USA
+224,224,CASC,China,"Tue Jul 31, 2018 03:00 UTC",Long March 4B | Gaofen 11,StatusActive,64.68,Success,CHN
+226,226,SpaceX,USA,"Wed Jul 25, 2018 11:39 UTC",Falcon 9 Block 5 | Iridium-7,StatusActive,50.0,Success,USA
+228,228,SpaceX,USA,"Sun Jul 22, 2018 05:50 UTC",Falcon 9 Block 5 | Telstar 19V,StatusActive,50.0,Success,USA
+230,230,Roscosmos,Kazakhstan,"Mon Jul 09, 2018 21:51 UTC",Soyuz 2.1a | Progress MS-09 (70P),StatusActive,48.5,Success,KAZ
+231,231,CASC,China,"Mon Jul 09, 2018 20:50 UTC",Long March 3A | BeiDou-2 I7,StatusActive,69.7,Success,CHN
+232,232,CASC,China,"Mon Jul 09, 2018 03:56 UTC",Long March 2C | PRSS-1 & PakTES-1A,StatusActive,30.8,Success,CHN
+233,233,SpaceX,USA,"Fri Jun 29, 2018 09:42 UTC",Falcon 9 Block 4 | CRS-15,StatusRetired,62.0,Success,USA
+234,234,CASC,China,"Wed Jun 27, 2018 03:30 UTC",Long March 2C | XJSS A & B,StatusActive,30.8,Success,CHN
+236,236,MHI,Japan,"Tue Jun 12, 2018 04:20 UTC",H-IIA 202 | IGS Radar-6,StatusActive,90.0,Success,JPN
+238,238,CASC,China,"Tue Jun 05, 2018 13:07 UTC",Long March 3A | Fengyun 2H,StatusActive,69.7,Success,CHN
+239,239,SpaceX,USA,"Mon Jun 04, 2018 04:29 UTC",Falcon 9 Block 4 | SES-12,StatusRetired,62.0,Success,USA
+240,240,CASC,China,"Sat Jun 02, 2018 04:13 UTC",Long March 2D | Gaofen 6 & Luojia 1,StatusActive,29.75,Success,CHN
+241,241,SpaceX,USA,"Tue May 22, 2018 19:47 UTC",Falcon 9 Block 4 | Iridium-6 & GRACE-FO,StatusRetired,62.0,Success,USA
+242,242,Northrop,USA,"Mon May 21, 2018 04:44 UTC",Antares 230 | CRS OA-9E,StatusRetired,85.0,Success,USA
+243,243,CASC,China,"Sun May 20, 2018 21:28 UTC","Long March 4C | Queqiao, Longjiang 1 & 2",StatusActive,64.68,Success,CHN
+244,244,SpaceX,USA,"Fri May 11, 2018 20:14 UTC",Falcon 9 Block 5 | Bangabandhu-1,StatusActive,50.0,Success,USA
+245,245,CASC,China,"Tue May 08, 2018 18:28 UTC",Long March 4C | Gaofen 5,StatusActive,64.68,Success,CHN
+246,246,ULA,USA,"Sat May 05, 2018 11:05 UTC",Atlas V 401 | InSight,StatusActive,109.0,Success,USA
+247,247,CASC,China,"Thu May 03, 2018 16:05 UTC",Long March 3B/E | Apstar 6C,StatusActive,29.15,Success,CHN
+249,249,CASC,China,"Thu Apr 26, 2018 04:42 UTC",Long March 11 | Zhuhai-1 2A to 2D,StatusActive,5.3,Success,CHN
+250,250,Eurockot,Russian Federation,"Wed Apr 25, 2018 17:57 UTC",Rokot/Briz KM | Sentinel-3B,StatusRetired,41.8,Success,RUS
+251,251,SpaceX,USA,"Wed Apr 18, 2018 22:51 UTC",Falcon 9 Block 4 | Transiting Exoplanet Survey Satellite (TESS),StatusRetired,62.0,Success,USA
+252,252,VKS RF,Kazakhstan,"Wed Apr 18, 2018 22:12 UTC",Proton-M/Briz-M | Blagovest-12L,StatusActive,65.0,Success,KAZ
+253,253,ULA,USA,"Sat Apr 14, 2018 23:13 UTC",Atlas V 551 | AFSPC-11,StatusActive,153.0,Success,USA
+254,254,ISRO,India,"Wed Apr 11, 2018 22:34 UTC",PSLV-XL | IRNSS-1I,StatusActive,31.0,Success,IND
+255,255,CASC,China,"Tue Apr 10, 2018 04:25 UTC","Long March 4C | Yaogan 31 A, B, & C",StatusActive,64.68,Success,CHN
+256,256,Arianespace,France,"Thu Apr 05, 2018 21:34 UTC",Ariane 5 ECA | Superbird-B3/DSN-1 & HYLAS-4,StatusActive,200.0,Success,FRA
+257,257,SpaceX,USA,"Mon Apr 02, 2018 20:30 UTC",Falcon 9 Block 4 | CRS-14,StatusRetired,62.0,Success,USA
+258,258,CASC,China,"Sat Mar 31, 2018 03:22 UTC",Long March 4C | Gaofen-1 02-04,StatusActive,64.68,Success,CHN
+259,259,SpaceX,USA,"Fri Mar 30, 2018 14:14 UTC",Falcon 9 Block 4 | Iridium-5,StatusRetired,62.0,Success,USA
+262,262,ISRO,India,"Thu Mar 29, 2018 11:26 UTC",GSLV Mk II | GSAT-6A,StatusActive,47.0,Success,IND
+264,264,CASC,China,"Sat Mar 17, 2018 07:10 UTC",Long March 2D | LKW-4,StatusActive,29.75,Success,CHN
+266,266,SpaceX,USA,"Tue Mar 06, 2018 05:33 UTC",Falcon 9 Block 4 | Hispasat 30W-6,StatusRetired,62.0,Success,USA
+267,267,ULA,USA,"Thu Mar 01, 2018 22:02 UTC",Atlas V 541 | GOES-S (GOES-17),StatusActive,145.0,Success,USA
+268,268,MHI,Japan,"Tue Feb 27, 2018 04:34 UTC",H-IIA 202 | IGS-Optical 6,StatusActive,90.0,Success,JPN
+269,269,SpaceX,USA,"Thu Feb 22, 2018 14:17 UTC","Falcon 9 Block 3 | PAZ & Tintin A, Tintin B",StatusRetired,62.0,Success,USA
+270,270,Roscosmos,Kazakhstan,"Tue Feb 13, 2018 08:13 UTC",Soyuz 2.1a | Progress MS-08 (69P),StatusActive,48.5,Success,KAZ
+272,272,SpaceX,USA,"Tue Feb 06, 2018 20:45 UTC",Falcon Heavy | Test Flight,StatusActive,90.0,Success,USA
+274,274,CASC,China,"Fri Feb 02, 2018 07:50 UTC",Long March 2D | CSES & Rideshares,StatusActive,29.75,Success,CHN
+275,275,Roscosmos,Russian Federation,"Thu Feb 01, 2018 02:07 UTC",Soyuz 2.1a/Fregat-M | Kanopus-V No. 3-4 & Rideshares,StatusActive,48.5,Success,RUS
+276,276,SpaceX,USA,"Wed Jan 31, 2018 21:25 UTC",Falcon 9 Block 3 | GovSat-1 / SES-16,StatusRetired,62.0,Success,USA
+277,277,Arianespace,France,"Thu Jan 25, 2018 22:20 UTC",Ariane 5 ECA | SES-14/GOLD & Al Yah-3,StatusActive,200.0,Partial Failure,FRA
+278,278,CASC,China,"Thu Jan 25, 2018 05:39 UTC","Long March 2C | Yaogan 30 J, K & L",StatusActive,30.8,Success,CHN
+279,279,Rocket Lab,New Zealand,"Sun Jan 21, 2018 01:43 UTC",Electron/Curie | Still Testing,StatusActive,7.5,Success,NZL
+280,280,ULA,USA,"Sat Jan 20, 2018 00:48 UTC",Atlas V 411 | SBIRS GEO-4,StatusActive,115.0,Success,USA
+281,281,CASC,China,"Fri Jan 19, 2018 04:12 UTC","Long March 11 | Jilin-1 07, 08 & Others",StatusActive,5.3,Success,CHN
+282,282,JAXA,Japan,"Wed Jan 17, 2018 21:06 UTC",Epsilon PBS | ASNARO 2,StatusActive,39.0,Success,JPN
+283,283,CASC,China,"Sat Jan 13, 2018 07:20 UTC",Long March 2D | LKW-3,StatusActive,29.75,Success,CHN
+285,285,ISRO,India,"Fri Jan 12, 2018 03:58 UTC",PSLV-XL | Cartosat-2F & Rideshares,StatusActive,31.0,Success,IND
+287,287,CASC,China,"Tue Jan 09, 2018 03:24 UTC",Long March 2D | SuperView 03 & 04,StatusActive,29.75,Success,CHN
+288,288,SpaceX,USA,"Mon Jan 08, 2018 01:00 UTC",Falcon 9 Block 4 | Zuma,StatusRetired,62.0,Success,USA
+290,290,CASC,China,"Mon Dec 25, 2017 19:44 UTC","Long March 2C | Yaogan-30 G, H & I",StatusActive,30.8,Success,CHN
+291,291,CASC,China,"Sat Dec 23, 2017 04:14 UTC",Long March 2D | LKW-2,StatusActive,29.75,Success,CHN
+292,292,SpaceX,USA,"Sat Dec 23, 2017 01:27 UTC",Falcon 9 Block 3 | Iridium-4,StatusRetired,62.0,Success,USA
+293,293,MHI,Japan,"Sat Dec 23, 2017 01:26 UTC",H-IIA 202 | GCOM-C & SLATS,StatusActive,90.0,Success,JPN
+296,296,SpaceX,USA,"Fri Dec 15, 2017 15:36 UTC",Falcon 9 Block 3 | CRS-13,StatusRetired,62.0,Success,USA
+298,298,CASC,China,"Sun Dec 10, 2017 16:41 UTC",Long March 3B/E | Alcomsat-1,StatusActive,29.15,Success,CHN
+299,299,CASC,China,"Sun Dec 03, 2017 04:11 UTC",Long March 2D | LKW-1,StatusActive,29.75,Success,CHN
+300,300,VKS RF,Russian Federation,"Sat Dec 02, 2017 10:43 UTC",Soyuz 2.1b | Cosmos 2524,StatusActive,35.0,Success,RUS
+302,302,CASC,China,"Fri Nov 24, 2017 18:10 UTC","Long March 2C | Yaogan-30 D, E, & F",StatusActive,30.8,Success,CHN
+305,305,CASC,China,"Tue Nov 14, 2017 18:35 UTC",Long March 4C | Fengyun 3D,StatusActive,64.68,Success,CHN
+306,306,Northrop,USA,"Sun Nov 12, 2017 12:19 UTC",Antares 230 | CRS OA-8E,StatusRetired,85.0,Success,USA
+307,307,Arianespace,France,"Wed Nov 08, 2017 01:42 UTC",Vega | Mohammed VI-A,StatusActive,37.0,Success,FRA
+309,309,Northrop,USA,"Tue Oct 31, 2017 21:37 UTC",Minotaur C (Taurus) | SkySat & Flock-3m,StatusActive,45.0,Success,USA
+310,310,SpaceX,USA,"Mon Oct 30, 2017 19:34 UTC",Falcon 9 Block 4 | Koreasat 5A,StatusRetired,62.0,Success,USA
+311,311,ULA,USA,"Sun Oct 15, 2017 07:28 UTC",Atlas V 421 | NROL-52,StatusActive,123.0,Success,USA
+312,312,Roscosmos,Kazakhstan,"Sat Oct 14, 2017 08:46 UTC",Soyuz 2.1a | Progress MS-07 (68P),StatusActive,48.5,Success,KAZ
+313,313,Eurockot,Russian Federation,"Fri Oct 13, 2017 09:27 UTC",Rokot/Briz KM | Sentinel-5P,StatusRetired,41.8,Success,RUS
+314,314,SpaceX,USA,"Wed Oct 11, 2017 22:53 UTC",Falcon 9 Block 3 | SES-11 / EchoStar 105,StatusRetired,62.0,Success,USA
+315,315,MHI,Japan,"Mon Oct 09, 2017 22:01 UTC",H-IIA 202 | QZS-4,StatusActive,90.0,Success,JPN
+316,316,SpaceX,USA,"Mon Oct 09, 2017 12:37 UTC",Falcon 9 Block 4 | Iridium-3,StatusRetired,62.0,Success,USA
+317,317,CASC,China,"Mon Oct 09, 2017 04:13 UTC",Long March 2D | VRSS-2,StatusActive,29.75,Success,CHN
+318,318,Arianespace,France,"Fri Sep 29, 2017 21:56 UTC","Ariane 5 ECA | Intelsat 37e, BSAT-4a",StatusActive,200.0,Success,FRA
+319,319,CASC,China,"Fri Sep 29, 2017 04:21 UTC","Long March 2C | Yaogan-30 A, B & C",StatusActive,30.8,Success,CHN
+320,320,VKS RF,Kazakhstan,"Thu Sep 28, 2017 18:52 UTC",Proton-M/Briz-M | AsiaSat 9,StatusActive,65.0,Success,KAZ
+321,321,ULA,USA,"Sun Sep 24, 2017 05:49 UTC",Atlas V 541 | NROL-42,StatusActive,145.0,Success,USA
+322,322,ILS,Kazakhstan,"Mon Sep 11, 2017 19:23 UTC",Proton-M/Briz-M | Amazonas 5,StatusActive,65.0,Success,KAZ
+323,323,SpaceX,USA,"Thu Sep 07, 2017 14:00 UTC",Falcon 9 Block 4 | OTV-5,StatusRetired,62.0,Success,USA
+324,324,ISRO,India,"Thu Aug 31, 2017 13:30 UTC",PSLV-XL | IRNSS-1H,StatusActive,31.0,Failure,IND
+325,325,Northrop,USA,"Fri Aug 25, 2017 06:04 UTC",Minotaur IV | ORS-5,StatusActive,46.0,Success,USA
+326,326,SpaceX,USA,"Thu Aug 24, 2017 18:51 UTC",Falcon 9 Block 3 | Formosat-5,StatusRetired,62.0,Success,USA
+329,329,ULA,USA,"Fri Aug 18, 2017 12:29 UTC",Atlas V 401 | TDRS-M (TDRS-13),StatusActive,109.0,Success,USA
+330,330,VKS RF,Kazakhstan,"Wed Aug 16, 2017 22:07 UTC",Proton-M/Briz-M | Blagovest-11L,StatusActive,65.0,Success,KAZ
+331,331,SpaceX,USA,"Mon Aug 14, 2017 16:31 UTC",Falcon 9 Block 4 | CRS-12,StatusRetired,62.0,Success,USA
+333,333,Arianespace,France,"Wed Aug 02, 2017 01:58 UTC",Vega | OPSAT 3000 & VEN†æS,StatusActive,37.0,Success,FRA
+336,336,Roscosmos,Kazakhstan,"Fri Jul 14, 2017 06:36 UTC",Soyuz 2.1a/Fregat | Kanopus-V IK & Rideshares,StatusActive,48.5,Partial Failure,KAZ
+337,337,SpaceX,USA,"Wed Jul 05, 2017 20:25 UTC",Falcon 9 Block 3 | Intelsat 35e,StatusRetired,62.0,Success,USA
+339,339,Arianespace,France,"Wed Jun 28, 2017 21:15 UTC","Ariane 5 ECA | Hellas Sat 3-Inmarsat S EAN, GSAT-17",StatusActive,200.0,Success,FRA
+340,340,SpaceX,USA,"Sun Jun 25, 2017 20:25 UTC",Falcon 9 Block 3 | Iridium-2,StatusRetired,62.0,Success,USA
+341,341,SpaceX,USA,"Fri Jun 23, 2017 19:10 UTC",Falcon 9 Block 3 | BulgariaSat-1,StatusRetired,62.0,Success,USA
+343,343,ISRO,India,"Fri Jun 23, 2017 03:59 UTC",PSLV-XL | Cartosat-2E & Rideshares,StatusActive,31.0,Success,IND
+344,344,CASC,China,"Sun Jun 18, 2017 16:12 UTC",Long March 3B/E | ChinaSat 9A,StatusActive,29.15,Partial Failure,CHN
+345,345,CASC,China,"Thu Jun 15, 2017 03:15 UTC",Long March 4B | HXMT & Others,StatusActive,64.68,Success,CHN
+346,346,Roscosmos,Kazakhstan,"Wed Jun 14, 2017 09:20 UTC",Soyuz 2.1a | Progress MS-06 (67P),StatusActive,48.5,Success,KAZ
+347,347,ILS,Kazakhstan,"Thu Jun 08, 2017 03:45 UTC",Proton-M/Briz-M | Echostar 21,StatusActive,65.0,Success,KAZ
+348,348,ISRO,India,"Mon Jun 05, 2017 11:58 UTC",GSLV Mk III | GSAT-19,StatusActive,62.0,Success,IND
+349,349,SpaceX,USA,"Sat Jun 03, 2017 21:07 UTC",Falcon 9 Block 3 | CRS-11,StatusRetired,62.0,Success,USA
+350,350,Arianespace,France,"Thu Jun 01, 2017 23:45 UTC","Ariane 5 ECA | ViaSat 2, Eutelsat 172B",StatusActive,200.0,Success,FRA
+351,351,MHI,Japan,"Thu Jun 01, 2017 00:17 UTC",H-IIA 202 | QZS-2,StatusActive,90.0,Success,JPN
+353,353,Rocket Lab,New Zealand,"Thu May 25, 2017 04:20 UTC",Electron | It's a Test,StatusActive,7.5,Failure,NZL
+355,355,SpaceX,USA,"Mon May 15, 2017 23:21 UTC",Falcon 9 Block 3 | Inmarsat-5 F4,StatusRetired,62.0,Success,USA
+356,356,ISRO,India,"Fri May 05, 2017 11:27 UTC",GSLV Mk II | GSAT-9,StatusActive,47.0,Success,IND
+357,357,Arianespace,France,"Thu May 04, 2017 21:50 UTC","Ariane 5 ECA | Koreasat 7, SGDC-1",StatusActive,200.0,Success,FRA
+358,358,SpaceX,USA,"Mon May 01, 2017 11:15 UTC",Falcon 9 Block 3 | NROL-76,StatusRetired,62.0,Success,USA
+361,361,ULA,USA,"Tue Apr 18, 2017 15:11 UTC",Atlas V 401 | CRS OA-7,StatusActive,109.0,Success,USA
+362,362,CASC,China,"Wed Apr 12, 2017 11:04 UTC",Long March 3B/E | Shijian 13,StatusActive,29.15,Success,CHN
+363,363,SpaceX,USA,"Thu Mar 30, 2017 22:27 UTC",Falcon 9 Block 3 | SES-10,StatusRetired,62.0,Success,USA
+365,365,MHI,Japan,"Fri Mar 17, 2017 01:20 UTC",H-IIA 202 | IGS-Radar 5,StatusActive,90.0,Success,JPN
+366,366,SpaceX,USA,"Thu Mar 16, 2017 06:00 UTC",Falcon 9 Block 3 | Echostar 23,StatusRetired,62.0,Success,USA
+367,367,Arianespace,France,"Tue Mar 07, 2017 01:49 UTC",Vega | Sentinel 2B,StatusActive,37.0,Success,FRA
+369,369,ULA,USA,"Wed Mar 01, 2017 17:49 UTC",Atlas V 401 | NROL-79,StatusActive,109.0,Success,USA
+371,371,SpaceX,USA,"Sun Feb 19, 2017 14:39 UTC",Falcon 9 Block 3 | CRS-10,StatusRetired,62.0,Success,USA
+372,372,ISRO,India,"Wed Feb 15, 2017 03:58 UTC",PSLV-XL | Cartosat-2D & Rideshares,StatusActive,31.0,Success,IND
+373,373,Arianespace,France,"Tue Feb 14, 2017 21:39 UTC",Ariane 5 ECA | Intelsat 32e/SkyBrasil-1 & Telkom-3S,StatusActive,200.0,Success,FRA
+376,376,ULA,USA,"Sat Jan 21, 2017 00:42 UTC",Atlas V 401 | SBIRS GEO-3,StatusActive,109.0,Success,USA
+378,378,SpaceX,USA,"Sat Jan 14, 2017 17:54 UTC",Falcon 9 Block 3 | Iridium-1,StatusRetired,62.0,Success,USA
+380,380,CASC,China,"Thu Jan 05, 2017 15:18 UTC",Long March 3B/E | TJS 2,StatusActive,29.15,Success,CHN
+381,381,CASC,China,"Wed Dec 28, 2016 03:23 UTC","Long March 2D | SuperView-1 1, 2 & Bayi Kepu 1",StatusActive,29.75,Partial Failure,CHN
+382,382,Arianespace,France,"Wed Dec 21, 2016 20:30 UTC","Ariane 5 ECA | Star One D1, JCSAT-15",StatusActive,200.0,Success,FRA
+383,383,CASC,China,"Wed Dec 21, 2016 19:22 UTC","Long March 2D | TanSat & Spark 1, 2",StatusActive,29.75,Success,CHN
+385,385,ULA,USA,"Sun Dec 18, 2016 19:13 UTC",Atlas V 431 | EchoStar 19,StatusActive,130.0,Success,USA
+386,386,Northrop,USA,"Thu Dec 15, 2016 13:37 UTC",Pegasus XL | CYGNSS,StatusActive,40.0,Success,USA
+387,387,CASC,China,"Sat Dec 10, 2016 16:11 UTC",Long March 3B/E | Fengyun 4A,StatusActive,29.15,Success,CHN
+388,388,MHI,Japan,"Fri Dec 09, 2016 13:26 UTC",H-IIB | HTV-6,StatusRetired,112.5,Success,JPN
+390,390,ISRO,India,"Wed Dec 07, 2016 04:54 UTC",PSLV-XL | Resourcesat-2A,StatusActive,31.0,Success,IND
+391,391,Arianespace,France,"Mon Dec 05, 2016 13:51 UTC",Vega | G??kt??rk-1A,StatusActive,37.0,Success,FRA
+394,394,ULA,USA,"Sat Nov 19, 2016 23:42 UTC",Atlas V 541 | GOES-R (GOES-16),StatusActive,145.0,Success,USA
+397,397,CASC,China,"Fri Nov 11, 2016 23:14 UTC",Long March 2D | Yunhai-1,StatusActive,29.75,Success,CHN
+398,398,ULA,USA,"Fri Nov 11, 2016 18:30 UTC",Atlas V 401 | WorldView-4,StatusActive,109.0,Success,USA
+399,399,CASC,China,"Wed Nov 09, 2016 23:42 UTC","Long March 11 | XPNAV 1, Xiaoxiang 1 & Others",StatusActive,5.3,Success,CHN
+401,401,MHI,Japan,"Wed Nov 02, 2016 06:20 UTC",H-IIA 202 | Himawari 9,StatusActive,90.0,Success,JPN
+403,403,Northrop,USA,"Mon Oct 17, 2016 23:45 UTC",Antares 230 | CRS OA-5,StatusRetired,85.0,Success,USA
+406,406,Arianespace,France,"Wed Oct 05, 2016 20:30 UTC","Ariane 5 ECA | Sky Muster II, GSAT-18",StatusActive,200.0,Success,FRA
+407,407,ISRO,India,"Mon Sep 26, 2016 03:42 UTC",PSLV-G | ScatSat-1 & Rideshares,StatusRetired,25.0,Success,IND
+408,408,Arianespace,France,"Fri Sep 16, 2016 01:43 UTC",Vega | PeruSat-1 and SkySats 4-7,StatusActive,37.0,Success,FRA
+411,411,ULA,USA,"Thu Sep 08, 2016 23:05 UTC",Atlas V 411 | OSIRIS-REx,StatusActive,115.0,Success,USA
+412,412,ISRO,India,"Thu Sep 08, 2016 11:20 UTC",GSLV Mk II | INSAT-3DR,StatusActive,47.0,Success,IND
+413,413,SpaceX,USA,"Thu Sep 01, 2016 13:07 UTC",Falcon 9 Block 3 | AMOS-6,StatusRetired,62.0,Prelaunch Failure,USA
+414,414,CASC,China,"Wed Aug 31, 2016 18:50 UTC",Long March 4C | Gaofen-10,StatusActive,64.68,Failure,CHN
+415,415,Arianespace,France,"Wed Aug 24, 2016 22:16 UTC","Ariane 5 ECA | Intelsat 33e, Intelsat 36",StatusActive,200.0,Success,FRA
+416,416,ULA,USA,"Fri Aug 19, 2016 04:52 UTC","Delta IV Medium+ (4,2) | AFSPC-6",StatusRetired,164.0,Success,USA
+417,417,CASC,China,"Mon Aug 15, 2016 17:40 UTC","Long March 2D | QUESS, Lixing-1, & 3CAT 2",StatusActive,29.75,Success,CHN
+418,418,SpaceX,USA,"Sun Aug 14, 2016 05:26 UTC",Falcon 9 Block 3 | JCSAT-16,StatusRetired,62.0,Success,USA
+419,419,CASC,China,"Tue Aug 09, 2016 22:55 UTC",Long March 4C | Gaofen-3,StatusActive,64.68,Success,CHN
+420,420,CASC,China,"Fri Aug 05, 2016 16:22 UTC",Long March 3B/E | Tiantong-1 01,StatusActive,29.15,Success,CHN
+421,421,ULA,USA,"Thu Jul 28, 2016 12:37 UTC",Atlas V 421 | NROL-61,StatusActive,123.0,Success,USA
+422,422,SpaceX,USA,"Mon Jul 18, 2016 04:45 UTC",Falcon 9 Block 3 | CRS-9,StatusRetired,62.0,Success,USA
+425,425,CASC,China,"Wed Jun 29, 2016 03:21 UTC",Long March 4B | Shijian 16-02,StatusActive,64.68,Success,CHN
+427,427,ULA,USA,"Fri Jun 24, 2016 14:30 UTC",Atlas V 551 | MUOS-5,StatusActive,153.0,Success,USA
+428,428,ISRO,India,"Wed Jun 22, 2016 03:56 UTC",PSLV-XL | Cartosat-2C & Rideshares,StatusActive,31.0,Success,IND
+430,430,Arianespace,France,"Sat Jun 18, 2016 05:20 UTC","Ariane 5 ECA | EchoStar 18, BRISat",StatusActive,200.0,Success,FRA
+431,431,SpaceX,USA,"Wed Jun 15, 2016 14:29 UTC",Falcon 9 Block 3 | ABS-2A & Eutelsat 117 West B,StatusRetired,62.0,Success,USA
+433,433,ULA,USA,"Sat Jun 11, 2016 17:51 UTC",Delta IV Heavy | NROL-37,StatusActive,350.0,Success,USA
+434,434,ILS,Kazakhstan,"Thu Jun 09, 2016 07:10 UTC",Proton-M/Briz-M | Intelsat 31 / DLA-2,StatusActive,65.0,Success,KAZ
+435,435,VKS RF,Russian Federation,"Sat Jun 04, 2016 14:00 UTC",Rokot/Briz KM | Cosmos 2517,StatusRetired,41.8,Success,RUS
+436,436,CASC,China,"Mon May 30, 2016 03:17 UTC","Long March 4B | Ziyuan III-02 & ??uSat-1, 2",StatusActive,64.68,Success,CHN
+437,437,VKS RF,Russian Federation,"Sun May 29, 2016 08:44 UTC",Soyuz 2.1b/Fregat | GLONASS-M No.51S,StatusActive,48.5,Success,RUS
+438,438,SpaceX,USA,"Fri May 27, 2016 21:39 UTC",Falcon 9 Block 3 | Thaicom 8,StatusRetired,62.0,Success,USA
+440,440,CASC,China,"Sun May 15, 2016 02:43 UTC",Long March 2D | Yaogan 30,StatusActive,29.75,Success,CHN
+441,441,SpaceX,USA,"Fri May 06, 2016 05:21 UTC",Falcon 9 Block 3 | JCSAT-14,StatusRetired,62.0,Success,USA
+442,442,ISRO,India,"Thu Apr 28, 2016 07:20 UTC",PSLV-XL | IRNSS-1G,StatusActive,31.0,Success,IND
+445,445,SpaceX,USA,"Fri Apr 08, 2016 20:43 UTC",Falcon 9 Block 3 | CRS-8,StatusRetired,62.0,Success,USA
+446,446,CASC,China,"Tue Apr 05, 2016 17:38 UTC",Long March 2D | Shijian-10,StatusActive,29.75,Success,CHN
+448,448,Roscosmos,Kazakhstan,"Thu Mar 31, 2016 16:23 UTC",Soyuz 2.1a | Progress MS-02,StatusActive,48.5,Success,KAZ
+449,449,CASC,China,"Tue Mar 29, 2016 20:11 UTC",Long March 3A | BeiDou IGSO-6,StatusActive,69.7,Success,CHN
+450,450,VKS RF,Russian Federation,"Thu Mar 24, 2016 09:42 UTC",Soyuz 2.1a | Bars-M 2L,StatusActive,48.5,Success,RUS
+451,451,ULA,USA,"Wed Mar 23, 2016 03:05 UTC",Atlas V 401 | CRS OA-6,StatusActive,109.0,Success,USA
+453,453,Roscosmos,Kazakhstan,"Mon Mar 14, 2016 09:31 UTC",Proton-M/Briz-M | ExoMars Trace Gas Orbiter & Schiaparelli EDM,StatusActive,65.0,Success,KAZ
+454,454,Roscosmos,Kazakhstan,"Sun Mar 13, 2016 18:56 UTC",Soyuz 2.1b | Resurs-P No.3,StatusActive,35.0,Success,KAZ
+455,455,ISRO,India,"Thu Mar 10, 2016 10:31 UTC",PSLV-XL | IRNSS-1F,StatusActive,31.0,Success,IND
+456,456,Arianespace,France,"Wed Mar 09, 2016 05:20 UTC",Ariane 5 ECA | Eutelsat 65 West A,StatusActive,200.0,Success,FRA
+457,457,SpaceX,USA,"Fri Mar 04, 2016 23:35 UTC",Falcon 9 Block 3 | SES-9,StatusRetired,62.0,Success,USA
+458,458,MHI,Japan,"Wed Feb 17, 2016 08:45 UTC","H-IIA 202 | Astro H, Horyu 4 & Kinshachi 2 and 3",StatusActive,90.0,Success,JPN
+459,459,Eurockot,Russian Federation,"Tue Feb 16, 2016 17:57 UTC",Rokot/Briz KM | Sentinel-3A,StatusRetired,41.8,Success,RUS
+462,462,VKS RF,Russian Federation,"Sun Feb 07, 2016 00:21 UTC",Soyuz 2.1b/Fregat | GLONASS-M No.50S,StatusActive,48.5,Success,RUS
+463,463,ULA,USA,"Fri Feb 05, 2016 13:38 UTC",Atlas V 401 | GPS IIF-12,StatusActive,109.0,Success,USA
+465,465,ILS,Kazakhstan,"Fri Jan 29, 2016 22:20 UTC",Proton-M/Briz-M | Eutelsat 9B,StatusActive,65.0,Success,KAZ
+466,466,Arianespace,France,"Wed Jan 27, 2016 23:20 UTC",Ariane 5 ECA | Intelsat 29e,StatusActive,200.0,Success,FRA
+468,468,ISRO,India,"Wed Jan 20, 2016 04:01 UTC",PSLV-XL | IRNSS-1E,StatusActive,31.0,Success,IND
+469,469,SpaceX,USA,"Sun Jan 17, 2016 18:42 UTC",Falcon 9 v1.1 | Jason-3,StatusRetired,56.5,Success,USA
+470,470,CASC,China,"Fri Jan 15, 2016 16:57 UTC",Long March 3B/E | Belintersat 1,StatusActive,29.15,Success,CHN
+471,471,SpaceX,USA,"Tue Dec 22, 2015 01:29 UTC",Falcon 9 Block 3 | OG2 Mission 2,StatusRetired,62.0,Success,USA
+473,473,ISRO,India,"Wed Dec 16, 2015 12:30 UTC",PSLV-CA | TeLEOS-1 & Rideshares,StatusActive,21.0,Success,IND
+475,475,ULA,USA,"Sun Dec 06, 2015 21:44 UTC",Atlas V 401 | CRS OA-4,StatusActive,109.0,Success,USA
+477,477,Arianespace,France,"Thu Dec 03, 2015 04:04 UTC",Vega | LISA Pathfinder,StatusActive,37.0,Success,FRA
+480,480,Arianespace,France,"Tue Nov 10, 2015 21:34 UTC","Ariane 5 ECA | Arabsat 6B, GSAT-15",StatusActive,200.0,Success,FRA
+481,481,Sandia,USA,"Wed Nov 04, 2015","Super Stripy | HiakaSat, STACEM & Others",StatusActive,15.0,Failure,USA
+482,482,ULA,USA,"Sat Oct 31, 2015 16:13 UTC",Atlas V 401 | GPS IIF-11,StatusActive,109.0,Success,USA
+483,483,ULA,USA,"Thu Oct 08, 2015 12:49 UTC",Atlas V 401 | NROL-55,StatusActive,109.0,Success,USA
+484,484,ULA,USA,"Fri Oct 02, 2015 10:28 UTC",Atlas V 421 | Morelos-3,StatusActive,123.0,Success,USA
+485,485,Arianespace,France,"Wed Sep 30, 2015 20:30 UTC","Ariane 5 ECA | NBN Co 1A, ARSAT-2",StatusActive,200.0,Success,FRA
+486,486,ISRO,India,"Mon Sep 28, 2015 04:30 UTC",PSLV-XL | Astrosat & Rideshares,StatusActive,31.0,Success,IND
+487,487,CASC,China,"Fri Sep 25, 2015",Long March 11 | Pujian 1 & Others,StatusActive,5.3,Success,CHN
+488,488,VKS RF,Russian Federation,"Wed Sep 23, 2015 21:59 UTC",Rokot/Briz KM | Cosmos 2507 to 2509,StatusRetired,41.8,Success,RUS
+491,491,ULA,USA,"Wed Sep 02, 2015 10:18 UTC",Atlas V 551 | MUOS-4,StatusActive,153.0,Success,USA
+492,492,ISRO,India,"Thu Aug 27, 2015 11:22 UTC",GSLV Mk II | GSAT-6,StatusActive,47.0,Success,IND
+493,493,Arianespace,France,"Thu Aug 20, 2015 20:34 UTC","Ariane 5 ECA | Eutelsat 8 West B, Intelsat 34",StatusActive,200.0,Success,FRA
+494,494,MHI,Japan,"Wed Aug 19, 2015 11:50 UTC",H-IIB | HTV-5,StatusRetired,112.5,Success,JPN
+496,496,Arianespace,France,"Wed Jul 15, 2015 21:42 UTC","Ariane 5 ECA | Star One C4, MSG-4",StatusActive,200.0,Success,FRA
+497,497,ULA,USA,"Wed Jul 15, 2015 15:36 UTC",Atlas V 401 | GPS IIF-10,StatusActive,109.0,Success,USA
+498,498,ISRO,India,"Fri Jul 10, 2015 16:28 UTC",PSLV-XL | UK-DMC3A/B/C & Rideshares,StatusActive,31.0,Success,IND
+499,499,SpaceX,USA,"Sun Jun 28, 2015 14:21 UTC",Falcon 9 v1.1 | CRS-7,StatusRetired,56.5,Failure,USA
+500,500,Arianespace,France,"Tue Jun 23, 2015 01:51 UTC",Vega | Sentinel-2A,StatusActive,37.0,Success,FRA
+501,501,Arianespace,France,"Wed May 27, 2015 21:16 UTC","Ariane 5 ECA | DirecTV-15, Sky Mexico 1",StatusActive,200.0,Success,FRA
+502,502,ULA,USA,"Wed May 20, 2015 15:05 UTC",Atlas V 501 | OTV-4,StatusActive,120.0,Success,USA
+504,504,SpaceX,USA,"Mon Apr 27, 2015 23:03 UTC",Falcon 9 v1.1 | Turkmen??lem52E/MonacoSat,StatusRetired,56.5,Success,USA
+505,505,Arianespace,France,"Sun Apr 26, 2015 20:00 UTC","Ariane 5 ECA | Thor 7, SICRAL-2",StatusActive,200.0,Success,FRA
+506,506,SpaceX,USA,"Wed Apr 15, 2015 20:10 UTC",Falcon 9 v1.1 | CRS-6,StatusRetired,56.5,Success,USA
+507,507,VKS RF,Russian Federation,"Tue Mar 31, 2015 13:47 UTC",Rokot/Briz KM | Cosmos 2504 & Goniets-M 21 to 23,StatusRetired,41.8,Success,RUS
+508,508,ISRO,India,"Sat Mar 28, 2015 11:49 UTC",PSLV-XL | IRNSS-1D,StatusActive,31.0,Success,IND
+510,510,MHI,Japan,"Thu Mar 26, 2015 01:21 UTC",H-IIA 202 | IGS-Optical 5,StatusActive,90.0,Success,JPN
+511,511,Kosmotras,Russian Federation,"Wed Mar 25, 2015 22:08 UTC",Dnepr | KompSat-3A,StatusRetired,29.0,Success,RUS
+512,512,ULA,USA,"Wed Mar 25, 2015 18:36 UTC","Delta IV Medium+ (4,2) | GPS IIF-9",StatusRetired,164.0,Success,USA
+513,513,ULA,USA,"Fri Mar 13, 2015 02:44 UTC",Atlas V 421 | MMS,StatusActive,123.0,Success,USA
+514,514,SpaceX,USA,"Mon Mar 02, 2015 03:50 UTC",Falcon 9 v1.1 | ABS-3A & EUTELSAT 115 West B,StatusRetired,56.5,Success,USA
+516,516,SpaceX,USA,"Wed Feb 11, 2015 23:03 UTC",Falcon 9 v1.1 | DSCOVR,StatusRetired,56.5,Success,USA
+517,517,Arianespace,France,"Wed Feb 11, 2015 13:40 UTC",Vega | IXV,StatusActive,37.0,Success,FRA
+519,519,MHI,Japan,"Sun Feb 01, 2015 01:21 UTC",H-IIA 202 | IGS-Radar 5,StatusActive,90.0,Success,JPN
+521,521,ULA,USA,"Wed Jan 21, 2015 01:04 UTC",Atlas V 551 | MUOS-3,StatusActive,153.0,Success,USA
+522,522,SpaceX,USA,"Sat Jan 10, 2015 09:47 UTC",Falcon 9 v1.1 | CRS-5,StatusRetired,56.5,Success,USA
+526,526,ISRO,India,"Thu Dec 18, 2014 04:00 UTC",GSLV Mk III | Demo Flight (CARE),StatusActive,62.0,Success,IND
+527,527,ULA,USA,"Sat Dec 13, 2014 03:19 UTC",Atlas V 541 | NROL-35,StatusActive,145.0,Success,USA
+528,528,Arianespace,France,"Sat Dec 06, 2014 20:40 UTC","Ariane 5 ECA | DirecTV-14, GSAT-16",StatusActive,200.0,Success,FRA
+529,529,ULA,USA,"Fri Dec 05, 2014 12:05 UTC",Delta IV Heavy | EFT-1,StatusActive,350.0,Success,USA
+530,530,MHI,Japan,"Wed Dec 03, 2014 04:22 UTC",H-IIA 202 | Hayabusa 2 & Others,StatusActive,90.0,Success,JPN
+532,532,Kosmotras,Russian Federation,"Thu Nov 06, 2014 07:35 UTC",Dnepr | Sasuke & Others,StatusRetired,29.0,Success,RUS
+533,533,ULA,USA,"Wed Oct 29, 2014 17:21 UTC",Atlas V 401 | GPS IIF-8,StatusActive,109.0,Success,USA
+534,534,Northrop,USA,"Tue Oct 28, 2014 22:22 UTC",Antares 130 | CRS Orb-3,StatusRetired,80.0,Failure,USA
+535,535,Arianespace,France,"Thu Oct 16, 2014 21:43 UTC","Ariane 5 ECA | Intelsat 30, ARSAT-1",StatusActive,200.0,Success,FRA
+536,536,ISRO,India,"Thu Oct 16, 2014 20:02 UTC",PSLV-XL | IRNSS-1C,StatusActive,31.0,Success,IND
+537,537,MHI,Japan,"Tue Oct 07, 2014 05:16 UTC",H-IIA 202 | Himawari 8,StatusActive,90.0,Success,JPN
+538,538,SpaceX,USA,"Sun Sep 21, 2014 05:52 UTC",Falcon 9 v1.1 | CRS-4,StatusRetired,56.5,Success,USA
+539,539,ULA,USA,"Wed Sep 17, 2014 00:10 UTC",Atlas V 401 | CLIO,StatusActive,109.0,Success,USA
+540,540,Arianespace,France,"Thu Sep 11, 2014 22:05 UTC","Ariane 5 ECA | MEASAT 3b, Optus 10",StatusActive,200.0,Success,FRA
+541,541,SpaceX,USA,"Sun Sep 07, 2014 05:00 UTC",Falcon 9 v1.1 | AsiaSat 6,StatusRetired,56.5,Success,USA
+543,543,ULA,USA,"Wed Aug 13, 2014 18:30 UTC",Atlas V 401 | WorldView 3,StatusActive,109.0,Success,USA
+544,544,SpaceX,USA,"Tue Aug 05, 2014 08:00 UTC",Falcon 9 v1.1 | AsiaSat 8,StatusRetired,56.5,Success,USA
+545,545,ULA,USA,"Sat Aug 02, 2014 03:23 UTC",Atlas V 401 | GPS IIF-7,StatusActive,109.0,Success,USA
+547,547,ULA,USA,"Mon Jul 28, 2014 23:28 UTC","Delta IV Medium+ (4,2) | AFSPC-4",StatusRetired,164.0,Success,USA
+548,548,SpaceX,USA,"Mon Jul 14, 2014 15:15 UTC",Falcon 9 v1.1 | OG2 Mission 1,StatusRetired,56.5,Success,USA
+549,549,Northrop,USA,"Sun Jul 13, 2014 16:52 UTC",Antares 120 | CRS Orb-2,StatusRetired,80.0,Success,USA
+552,552,VKS RF,Russian Federation,"Thu Jul 03, 2014 12:43 UTC",Rokot/Briz KM | Goniets-M 18 to 20,StatusRetired,41.8,Success,RUS
+554,554,ISRO,India,"Mon Jun 30, 2014 04:22 UTC",PSLV-CA | SPOT-7 & Rideshares,StatusActive,21.0,Success,IND
+555,555,Kosmotras,Russian Federation,"Thu Jun 19, 2014 19:11 UTC",Dnepr | Deimos 2,StatusRetired,29.0,Success,RUS
+557,557,MHI,Japan,"Sat May 24, 2014 03:05 UTC","H-IIA 202 | Daichi 2, SPROUT & Others",StatusActive,90.0,Success,JPN
+558,558,VKS RF,Russian Federation,"Fri May 23, 2014 05:27 UTC",Rokot/Briz KM | Cosmos 2496 to 2499,StatusRetired,41.8,Success,RUS
+559,559,ULA,USA,"Thu May 22, 2014 13:09 UTC",Atlas V 401 | NROL-33,StatusActive,109.0,Success,USA
+560,560,ULA,USA,"Sat May 17, 2014 00:03 UTC","Delta IV Medium+ (4,2) | GPS IIF-6",StatusRetired,164.0,Success,USA
+561,561,Arianespace,France,"Wed Apr 30, 2014 01:35 UTC",Vega | KazEOSat-1,StatusActive,37.0,Success,FRA
+562,562,SpaceX,USA,"Fri Apr 18, 2014 19:25 UTC",Falcon 9 v1.1 | CRS-3,StatusRetired,56.5,Success,USA
+563,563,ULA,USA,"Thu Apr 10, 2014 17:45 UTC",Atlas V 541 | NROL-67,StatusActive,145.0,Success,USA
+565,565,ISRO,India,"Fri Apr 04, 2014 11:44 UTC",PSLV-XL | IRNSS-1B,StatusActive,31.0,Success,IND
+567,567,ULA,USA,"Thu Apr 03, 2014 14:46 UTC",Atlas V 401 | DMSP-5D3 F19,StatusActive,109.0,Success,USA
+568,568,Arianespace,France,"Sat Mar 22, 2014 22:04 UTC","Ariane 5 ECA | Astra 5B, Amazonas 4A",StatusActive,200.0,Success,FRA
+569,569,MHI,Japan,"Thu Feb 27, 2014 18:37 UTC",H-IIA 202 | GPM-Core & Others,StatusActive,90.0,Success,JPN
+570,570,ULA,USA,"Fri Feb 21, 2014 01:59 UTC","Delta IV Medium+ (4,2) | GPS IIF-5",StatusRetired,164.0,Success,USA
+571,571,Arianespace,France,"Thu Feb 06, 2014 21:30 UTC","Ariane 5 ECA | ABS-2, Athena-Fidus",StatusActive,200.0,Success,FRA
+572,572,ULA,USA,"Fri Jan 24, 2014 02:33 UTC",Atlas V 401 | TDRS-L,StatusActive,109.0,Success,USA
+573,573,Northrop,USA,"Thu Jan 09, 2014 18:07 UTC",Antares 120 | CRS Orb-1,StatusRetired,80.0,Success,USA
+574,574,SpaceX,USA,"Mon Jan 06, 2014 22:06 UTC",Falcon 9 v1.1 | Thaicom 6,StatusRetired,56.5,Success,USA
+575,575,ISRO,India,"Sun Jan 05, 2014 10:48 UTC",GSLV Mk II | GSAT-14,StatusActive,47.0,Success,IND
+577,577,VKS RF,Russian Federation,"Wed Dec 25, 2013 00:31 UTC",Rokot/Briz KM | Cosmos 2488 to 2491,StatusRetired,41.8,Success,RUS
+579,579,ULA,USA,"Fri Dec 06, 2013 07:14 UTC",Atlas V 501 | NROL-39,StatusActive,120.0,Success,USA
+580,580,SpaceX,USA,"Tue Dec 03, 2013 22:41 UTC",Falcon 9 v1.1 | SES-8,StatusRetired,56.5,Success,USA
+581,581,VKS RF,Russian Federation,"Fri Nov 22, 2013 12:02 UTC",Rokot/Briz KM | SWARM,StatusRetired,41.8,Success,RUS
+582,582,Kosmotras,Russian Federation,"Thu Nov 21, 2013 07:10 UTC",Dnepr | DubaiSat 2 & Others,StatusRetired,29.0,Success,RUS
+583,583,Northrop,USA,"Wed Nov 20, 2013 01:15 UTC",Minotaur I | ORS-3,StatusActive,40.0,Success,USA
+584,584,ULA,USA,"Mon Nov 18, 2013 18:28 UTC",Atlas V 401 | MAVEN,StatusActive,109.0,Success,USA
+585,585,ISRO,India,"Tue Nov 05, 2013 09:08 UTC",PSLV-XL | Mars Orbiter Mission,StatusActive,31.0,Success,IND
+586,586,SpaceX,USA,"Sun Sep 29, 2013 16:00 UTC",Falcon 9 v1.1 | CASSIOPE,StatusRetired,56.5,Success,USA
+588,588,ULA,USA,"Wed Sep 18, 2013 08:10 UTC",Atlas V 531 | AEHF-3,StatusActive,140.0,Success,USA
+590,590,Northrop,USA,"Fri Sep 13, 2013 14:58 UTC",Antares 110 | CRS Orb-D1,StatusRetired,80.0,Success,USA
+591,591,VKS RF,Russian Federation,"Wed Sep 11, 2013 23:23 UTC","Rokot/Briz KM | Goniets-M 14, 16 and 17",StatusRetired,41.8,Success,RUS
+592,592,Northrop,USA,"Sat Sep 07, 2013 03:27 UTC",Minotaur V | LADEE,StatusActive,55.0,Success,USA
+594,594,Arianespace,France,"Thu Aug 29, 2013 20:30 UTC","Ariane 5 ECA | Eutelsat 25B/Es'hail 1, GSAT-7",StatusActive,200.0,Success,FRA
+595,595,ULA,USA,"Wed Aug 28, 2013 18:03 UTC",Delta IV Heavy | NROL-65,StatusActive,350.0,Success,USA
+596,596,Kosmotras,Russian Federation,"Thu Aug 22, 2013 14:39 UTC",Dnepr | KompSat-5,StatusRetired,29.0,Success,RUS
+598,598,MHI,Japan,"Sat Aug 03, 2013 19:48 UTC",H-IIB | HTV-4,StatusRetired,112.5,Success,JPN
+599,599,Arianespace,France,"Thu Jul 25, 2013 19:54 UTC","Ariane 5 ECA | Alphasat I-XL, INSAT-3D",StatusActive,200.0,Success,FRA
+600,600,ULA,USA,"Fri Jul 19, 2013 13:00 UTC",Atlas V 551 | MUOS-2,StatusActive,153.0,Success,USA
+601,601,VKS RF,Kazakhstan,"Tue Jul 02, 2013 02:38 UTC","Proton-M/DM-3 | Cosmos 2488, 2489 & 2490",StatusActive,65.0,Failure,KAZ
+602,602,ISRO,India,"Mon Jul 01, 2013 18:11 UTC",PSLV-XL | IRNSS-1A,StatusActive,31.0,Success,IND
+603,603,Northrop,USA,"Fri Jun 28, 2013 02:27 UTC",Pegasus XL | IRIS,StatusActive,40.0,Success,USA
+609,609,ULA,USA,"Wed May 15, 2013 21:38 UTC",Atlas V 401 | GPS IIF-4,StatusActive,109.0,Success,USA
+610,610,Arianespace,France,"Tue May 07, 2013 02:06 UTC","Vega | Proba-V, VNREDSat-1A & ESTCube-1",StatusActive,37.0,Success,FRA
+611,611,Northrop,USA,"Sun Apr 21, 2013 21:00 UTC",Antares 110 | Antares A-ONE,StatusRetired,80.0,Success,USA
+612,612,ULA,USA,"Tue Mar 19, 2013 21:21 UTC",Atlas V 401 | SBIRS GEO-2,StatusActive,109.0,Success,USA
+613,613,SpaceX,USA,"Fri Mar 01, 2013 15:10 UTC",Falcon 9 v1.0 | CRS-2,StatusRetired,59.5,Success,USA
+614,614,ISRO,India,"Mon Feb 25, 2013 12:31 UTC",PSLV-CA | SARAL & Rideshares,StatusActive,21.0,Success,IND
+615,615,ULA,USA,"Mon Feb 11, 2013 18:02 UTC",Atlas V 401 | Landsat 8,StatusActive,109.0,Success,USA
+616,616,Arianespace,France,"Thu Feb 07, 2013 21:36 UTC","Ariane 5 ECA | Amazonas-3, Azerspace-1 (Africasat-1A)",StatusActive,200.0,Success,FRA
+618,618,ULA,USA,"Thu Jan 31, 2013 01:48 UTC",Atlas V 401 | TDRS-K,StatusActive,109.0,Success,USA
+620,620,MHI,Japan,"Sun Jan 27, 2013 04:40 UTC",H-IIA 202 | IGS-Optical 5V & IGS-Radar 4,StatusActive,90.0,Success,JPN
+621,621,VKS RF,Russian Federation,"Tue Jan 15, 2013 16:24 UTC",Rokot/Briz KM | Cosmos 2482 to 2484,StatusRetired,41.8,Partial Failure,RUS
+622,622,Arianespace,France,"Wed Dec 19, 2012 21:49 UTC","Ariane 5 ECA | Skynet 5D, Mexsat-3",StatusActive,200.0,Success,FRA
+624,624,ULA,USA,"Tue Dec 11, 2012 18:03 UTC",Atlas V 501 | OTV-3,StatusActive,120.0,Success,USA
+626,626,Arianespace,France,"Sun Dec 02, 2012 02:02 UTC",Soyuz ST-A/Fregat | Pl??iades 1B,StatusActive,80.0,Success,FRA
+627,627,Arianespace,France,"Sat Nov 10, 2012 21:05 UTC","Ariane 5 ECA | Eutelsat 21B, Star One C3",StatusActive,200.0,Success,FRA
+629,629,SpaceX,USA,"Mon Oct 08, 2012 00:35 UTC",Falcon 9 v1.0 | CRS-1,StatusRetired,59.5,Partial Failure,USA
+630,630,ULA,USA,"Thu Oct 04, 2012 12:10 UTC","Delta IV Medium+ (4,2) | GPS IIF-3",StatusRetired,164.0,Success,USA
+631,631,Arianespace,France,"Fri Sep 28, 2012 21:18 UTC","Ariane 5 ECA | Astra 2F, GSAT-10",StatusActive,200.0,Success,FRA
+633,633,ULA,USA,"Thu Sep 13, 2012 21:39 UTC",Atlas V 401 | NROL-36,StatusActive,109.0,Success,USA
+634,634,ISRO,India,"Sun Sep 09, 2012 04:23 UTC",PSLV-CA | SPOT-6 & mRESINS & PROITERES,StatusActive,21.0,Success,IND
+635,635,ULA,USA,"Thu Aug 30, 2012 08:05 UTC",Atlas V 401 | Van Allen Probes (RBSP),StatusActive,109.0,Success,USA
+637,637,Arianespace,France,"Thu Aug 02, 2012 20:54 UTC","Ariane 5 ECA | Intelsat 20, HYLAS 2",StatusActive,200.0,Success,FRA
+638,638,VKS RF,Russian Federation,"Sat Jul 28, 2012 01:35 UTC",Rokot/Briz KM | Cosmos 2481 & Goniets-M 13 and 15,StatusRetired,41.8,Success,RUS
+639,639,MHI,Japan,"Sat Jul 21, 2012 02:06 UTC",H-IIB | HTV-3,StatusRetired,112.5,Success,JPN
+640,640,Arianespace,France,"Thu Jul 05, 2012 21:36 UTC","Ariane 5 ECA | EchoStar XVII, MSG-3",StatusActive,200.0,Success,FRA
+641,641,ULA,USA,"Fri Jun 29, 2012 13:15 UTC",Delta IV Heavy | NROL-15,StatusActive,350.0,Success,USA
+642,642,ULA,USA,"Wed Jun 20, 2012 12:28 UTC",Atlas V 401 | NROL-38,StatusActive,109.0,Success,USA
+644,644,Northrop,USA,"Wed Jun 13, 2012 16:00 UTC",Pegasus XL | NuSTAR,StatusActive,40.0,Success,USA
+647,647,SpaceX,USA,"Tue May 22, 2012 07:44 UTC",Falcon 9 v1.0 | COTS-2+,StatusRetired,59.5,Success,USA
+648,648,MHI,Japan,"Thu May 17, 2012 16:39 UTC","H-IIA 202 | Shizuku, KOMPSAT 3 & Others",StatusActive,90.0,Success,JPN
+649,649,Arianespace,France,"Tue May 15, 2012 22:13 UTC","Ariane 5 ECA | JCSAT-13, Vinasat-2",StatusActive,200.0,Success,FRA
+650,650,ULA,USA,"Fri May 04, 2012 18:42 UTC",Atlas V 531 | AEHF-2,StatusActive,140.0,Success,USA
+651,651,ISRO,India,"Thu Apr 26, 2012 00:17 UTC",PSLV-XL | RISAT-1,StatusActive,31.0,Success,IND
+652,652,ISRO,India,"Thu Apr 26, 2012",PSLV-XL | PSLV- C19 RISAT-1,StatusActive,31.0,Success,IND
+656,656,ULA,USA,"Fri Feb 24, 2012 22:15 UTC",Atlas V 551 | MUOS-1,StatusActive,153.0,Success,USA
+657,657,ESA,France,"Mon Feb 13, 2012 10:00 UTC","Vega | Lares, AlmaSat-1 & 7 cubesats",StatusActive,37.0,Success,FRA
+660,660,Arianespace,France,"Sat Dec 17, 2011 02:03 UTC","Soyuz ST-A/Fregat | Pl??iades 1A, SSOT, Elisa",StatusActive,80.0,Success,FRA
+661,661,MHI,Japan,"Mon Dec 12, 2011 01:21 UTC",H-IIA 202 | IGS-Radar 3,StatusActive,90.0,Success,JPN
+662,662,ULA,USA,"Sat Nov 26, 2011 15:02 UTC",Atlas V 541 | Mars Science Laboratory,StatusActive,145.0,Success,USA
+667,667,ISRO,India,"Wed Oct 12, 2011 05:31 UTC",PSLV-CA | Megha-Tropiques & Rideshares,StatusActive,21.0,Success,IND
+670,670,Northrop,USA,"Tue Sep 27, 2011 15:49 UTC",Minotaur IV | TacSat-4,StatusActive,46.0,Success,USA
+672,672,MHI,Japan,"Fri Sep 23, 2011 04:36 UTC",H-IIA 202 | IGS-Optical 4,StatusActive,90.0,Success,JPN
+673,673,Arianespace,France,"Wed Sep 21, 2011 21:38 UTC","Ariane 5 ECA | Arabsat-5C, SES-2",StatusActive,200.0,Success,FRA
+674,674,MHI,Japan,"Sun Sep 11, 2011 11:17 UTC",H-IIA 202 | Michibiki 1,StatusActive,90.0,Success,JPN
+676,676,Kosmotras,Russian Federation,"Wed Aug 17, 2011 07:12 UTC",Dnepr | Sich 2 & Others,StatusRetired,29.0,Success,RUS
+677,677,Arianespace,France,"Sat Aug 06, 2011 22:52 UTC","Ariane 5 ECA | Astra 1N, BSAT-3C (JCSAT-110R)",StatusActive,200.0,Success,FRA
+678,678,ULA,USA,"Fri Aug 05, 2011 16:25 UTC",Atlas V 551 | Juno,StatusActive,153.0,Success,USA
+680,680,ULA,USA,"Sat Jul 16, 2011 06:41 UTC","Delta IV Medium+ (4,2) | GPS IIF-2",StatusRetired,164.0,Success,USA
+681,681,ISRO,India,"Fri Jul 15, 2011 11:18 UTC",PSLV-XL | GSAT-12,StatusActive,31.0,Success,IND
+682,682,NASA,USA,"Fri Jul 08, 2011 15:29 UTC",Space Shuttle Atlantis | STS-135,StatusRetired,450.0,Success,USA
+683,683,Northrop,USA,"Thu Jun 30, 2011 03:09 UTC",Minotaur I | ORS-1,StatusActive,40.0,Success,USA
+686,686,Arianespace,France,"Fri May 20, 2011 20:38 UTC","Ariane 5 ECA | ST-2, GSAT-8",StatusActive,200.0,Success,FRA
+687,687,NASA,USA,"Mon May 16, 2011 12:56 UTC",Space Shuttle Endeavour | STS-134,StatusRetired,450.0,Success,USA
+688,688,ULA,USA,"Sat May 07, 2011 18:10 UTC",Atlas V 401 | SBIRS GEO-1,StatusActive,109.0,Success,USA
+689,689,Arianespace,France,"Fri Apr 22, 2011 21:37 UTC","Ariane 5 ECA | Yahsat 1A, Intelsat 28 (New Dawn)",StatusActive,200.0,Success,FRA
+690,690,ISRO,India,"Wed Apr 20, 2011 04:42 UTC",PSLV-G | ResourceSat-2 & X-Sat & YouthSat,StatusRetired,25.0,Success,IND
+691,691,ULA,USA,"Fri Apr 15, 2011 04:24 UTC",Atlas V 411 | NROL-34,StatusActive,115.0,Success,USA
+692,692,ULA,USA,"Fri Mar 11, 2011 22:38 UTC","Delta IV Medium+ (4,2) | NROL-27",StatusRetired,164.0,Success,USA
+693,693,ULA,USA,"Sat Mar 05, 2011 22:46 UTC",Atlas V 501 | OTV-2,StatusActive,120.0,Success,USA
+694,694,Northrop,USA,"Fri Mar 04, 2011 10:09 UTC","Minotaur C (Taurus) | Glory, KySat-1, Hermes, and Explorer-1 [PRIME]",StatusActive,45.0,Failure,USA
+695,695,NASA,USA,"Thu Feb 24, 2011 21:53 UTC",Space Shuttle Discovery | STS-133,StatusRetired,450.0,Success,USA
+697,697,Northrop,USA,"Sun Feb 06, 2011 12:26 UTC",Minotaur I | NROL-66,StatusActive,40.0,Success,USA
+698,698,VKS RF,Russian Federation,"Tue Feb 01, 2011 14:00 UTC",Rokot/Briz KM | Cosmos 2470,StatusRetired,41.8,Partial Failure,RUS
+699,699,MHI,Japan,"Sat Jan 22, 2011 05:37 UTC",H-IIB | HTV-2,StatusRetired,112.5,Success,JPN
+700,700,ULA,USA,"Thu Jan 20, 2011 21:10 UTC",Delta IV Heavy | NROL-49,StatusActive,350.0,Success,USA
+702,702,Arianespace,France,"Wed Dec 29, 2010 21:27 UTC","Ariane 5 ECA | Koreasat 6, Hispasat-1E",StatusActive,200.0,Success,FRA
+703,703,ISRO,India,"Sat Dec 25, 2010 10:34 UTC",GSLV Mk I | GSAT-5P,StatusRetired,47.0,Failure,IND
+704,704,SpaceX,USA,"Wed Dec 08, 2010 15:43 UTC",Falcon 9 v1.0 | COTS-1,StatusRetired,59.5,Success,USA
+705,705,Arianespace,France,"Fri Nov 26, 2010 18:39 UTC","Ariane 5 ECA | Intelsat 17, HYLAS-1",StatusActive,200.0,Success,FRA
+706,706,ULA,USA,"Sun Nov 21, 2010 22:58 UTC",Delta IV Heavy | NROL-32,StatusActive,350.0,Success,USA
+707,707,Northrop,USA,"Sat Nov 20, 2010 01:25 UTC",Minotaur IV | STP-S26,StatusActive,46.0,Success,USA
+709,709,Arianespace,France,"Thu Oct 28, 2010 23:51 UTC","Ariane 5 ECA | Eutelsat W3B, BSAT-3B",StatusActive,200.0,Success,FRA
+711,711,Northrop,USA,"Sun Sep 26, 2010 04:41 UTC",Minotaur IV | SBSS,StatusActive,46.0,Success,USA
+712,712,ULA,USA,"Tue Sep 21, 2010 04:03 UTC",Atlas V 501 | NROL-41,StatusActive,120.0,Success,USA
+713,713,VKS RF,Russian Federation,"Wed Sep 08, 2010 03:30 UTC","Rokot/Briz KM | Cosmos 2467, 2468 and Goniets-M 12",StatusRetired,41.8,Success,RUS
+714,714,ULA,USA,"Sat Aug 14, 2010 11:07 UTC",Atlas V 531 | AEHF-1,StatusActive,140.0,Success,USA
+715,715,Arianespace,France,"Wed Aug 04, 2010 20:45 UTC","Ariane 5 ECA | Nilesat-201, Rascom-QAF 1R",StatusActive,200.0,Success,FRA
+716,716,ISRO,India,"Mon Jul 12, 2010 03:52 UTC",PSLV-CA | Cartosat-2B & Rideshares,StatusActive,21.0,Success,IND
+717,717,Arianespace,France,"Sat Jun 26, 2010 21:41 UTC","Ariane 5 ECA | Arabsat-5A, COMS-1",StatusActive,200.0,Success,FRA
+719,719,Kosmotras,Kazakhstan,"Mon Jun 21, 2010 02:14 UTC",Dnepr | TanDEM-X,StatusRetired,29.0,Success,KAZ
+720,720,Kosmotras,Russian Federation,"Tue Jun 15, 2010 14:42 UTC",Dnepr | Picard & Others,StatusRetired,29.0,Success,RUS
+722,722,SpaceX,USA,"Fri Jun 04, 2010 18:45 UTC",Falcon 9 v1.0 | Flight 1,StatusRetired,59.5,Success,USA
+723,723,Eurockot,Russian Federation,"Wed Jun 02, 2010 01:59 UTC",Rokot/Briz KM | SERVIS-2,StatusRetired,41.8,Success,RUS
+724,724,ULA,USA,"Fri May 28, 2010 03:00 UTC","Delta IV Medium+ (4,2) | GPS IIF-1",StatusRetired,164.0,Success,USA
+725,725,Arianespace,France,"Fri May 21, 2010 22:01 UTC",Ariane 5 ECA | Astra 3B  & COMSATBw-2,StatusActive,200.0,Success,FRA
+726,726,NASA,USA,"Fri May 14, 2010 18:20 UTC",Space Shuttle Atlantis | STS-132,StatusRetired,450.0,Success,USA
+727,727,MHI,Japan,"Mon May 10, 2010 21:58 UTC","H-IIA 202 | Akatsuki, IKAROS & Others",StatusActive,90.0,Success,JPN
+730,730,ULA,USA,"Thu Apr 22, 2010 23:52 UTC",Atlas V 501 | OTV-1,StatusActive,120.0,Success,USA
+731,731,ISRO,India,"Thu Apr 15, 2010 10:57 UTC",GSLV Mk II | GSAT-4,StatusActive,47.0,Failure,IND
+732,732,Kosmotras,Kazakhstan,"Thu Apr 08, 2010 13:57 UTC",Dnepr | CryoSat-2,StatusRetired,29.0,Success,KAZ
+733,733,NASA,USA,"Mon Apr 05, 2010 10:21 UTC",Space Shuttle Discovery | STS-131,StatusRetired,450.0,Success,USA
+735,735,ULA,USA,"Thu Mar 04, 2010 23:57 UTC","Delta IV Medium+ (4,2) | GOES 15",StatusRetired,164.0,Success,USA
+736,736,ULA,USA,"Thu Feb 11, 2010 15:23 UTC",Atlas V 401 | SDO,StatusActive,109.0,Success,USA
+737,737,NASA,USA,"Mon Feb 08, 2010 09:14 UTC",Space Shuttle Endeavour | STS-130,StatusRetired,450.0,Success,USA
+743,743,MHI,Japan,"Sat Nov 28, 2009 01:21 UTC",H-IIA 202 | IGS-Optical 3,StatusActive,90.0,Success,JPN
+744,744,ULA,USA,"Mon Nov 23, 2009 06:55 UTC",Atlas V 431 | Intersat 14,StatusActive,130.0,Success,USA
+745,745,NASA,USA,"Mon Nov 16, 2009 19:28 UTC",Space Shuttle Atlantis | STS-129,StatusRetired,450.0,Success,USA
+746,746,Eurockot,Russian Federation,"Mon Nov 02, 2009 01:50 UTC",Rokot/Briz KM | SMOS and Proba-2,StatusRetired,41.8,Success,RUS
+747,747,Arianespace,France,"Thu Oct 29, 2009 20:00 UTC",Ariane 5 ECA | NSS-12 & Thor-6,StatusActive,200.0,Success,FRA
+748,748,NASA,USA,"Wed Oct 28, 2009 15:30 UTC",Ares 1-X | Ares 1-X Test Flight,StatusRetired,450.0,Success,USA
+749,749,ULA,USA,"Sun Oct 18, 2009 16:12 UTC",Atlas V 401 | DMSP-5D3-F18,StatusActive,109.0,Success,USA
+751,751,Arianespace,France,"Thu Oct 01, 2009 21:59 UTC",Ariane 5 ECA | Amazonas 2 & COMSATBw-1,StatusActive,200.0,Success,FRA
+753,753,ISRO,India,"Wed Sep 23, 2009 06:21 UTC",PSLV-CA | Oceansat-2 & Rideshares,StatusActive,21.0,Success,IND
+754,754,MHI,Japan,"Thu Sep 10, 2009 17:01 UTC",H-IIB | HTV-1,StatusRetired,112.5,Success,JPN
+755,755,ULA,USA,"Tue Sep 08, 2009 21:35 UTC",Atlas V 401 | PAN,StatusActive,109.0,Success,USA
+756,756,NASA,USA,"Fri Aug 28, 2009 03:59 UTC",Space Shuttle Discovery | STS-128,StatusRetired,450.0,Success,USA
+758,758,Arianespace,France,"Fri Aug 21, 2009 22:09 UTC",Ariane 5 ECA | JCSAT-12 & Optus D3,StatusActive,200.0,Success,FRA
+760,760,Kosmotras,Kazakhstan,"Wed Jul 29, 2009 18:46 UTC",Dnepr | DubaiSat 1 & Others,StatusRetired,29.0,Success,KAZ
+762,762,NASA,USA,"Wed Jul 15, 2009 22:03 UTC",Space Shuttle Endeavour | STS-127,StatusRetired,450.0,Success,USA
+763,763,SpaceX,USA,"Tue Jul 14, 2009 03:35 UTC",Falcon 1 | RazakSat,StatusRetired,7.0,Success,USA
+764,764,VKS RF,Russian Federation,"Mon Jul 06, 2009 01:26 UTC",Rokot/Briz KM | Cosmos 2451 to 2453,StatusRetired,41.8,Success,RUS
+765,765,Arianespace,France,"Wed Jul 01, 2009 19:52 UTC",Ariane 5 ECA | TerreStar-1,StatusActive,200.0,Success,FRA
+766,766,ULA,USA,"Sat Jun 27, 2009 22:51 UTC","Delta IV Medium+ (4,2) | GOES-O",StatusRetired,164.0,Success,USA
+768,768,ULA,USA,"Thu Jun 18, 2009 17:32 UTC",Atlas V 421 | LRO/LCROSS,StatusActive,123.0,Success,USA
+769,769,Northrop,USA,"Tue May 19, 2009 23:55 UTC",Minotaur I | TacSat-3 / PharmaSat / AeroCube 3 / HawkSat I / CP6,StatusActive,40.0,Success,USA
+770,770,Arianespace,France,"Thu May 14, 2009 13:12 UTC",Ariane 5 ECA | Herschel Space Observatory & Planck,StatusActive,200.0,Success,FRA
+771,771,NASA,USA,"Mon May 11, 2009 18:01 UTC",Space Shuttle Atlantis | STS-125,StatusRetired,450.0,Success,USA
+774,774,ISRO,India,"Mon Apr 20, 2009 01:15 UTC",PSLV-CA | RISAT-2 & ANUSAT,StatusActive,21.0,Success,IND
+776,776,ULA,USA,"Sat Apr 04, 2009 00:31 UTC",Atlas V 421 | WGS-2,StatusActive,123.0,Success,USA
+778,778,Eurockot,Russian Federation,"Tue Mar 17, 2009 14:21 UTC",Rokot/Briz KM | GOCE,StatusRetired,41.8,Success,RUS
+779,779,NASA,USA,"Sun Mar 15, 2009 23:43 UTC",Space Shuttle Discovery | STS-119,StatusRetired,450.0,Success,USA
+782,782,Northrop,USA,"Tue Feb 24, 2009 09:55 UTC",Minotaur C (Taurus) | Orbiting Carbon Observatory,StatusActive,45.0,Failure,USA
+783,783,Arianespace,France,"Thu Feb 12, 2009 22:09 UTC","Ariane 5 ECA | Hot Bird 10, NSS-9, Spirale-A & B",StatusActive,200.0,Success,FRA
+787,787,MHI,Japan,"Fri Jan 23, 2009 03:54 UTC","H-IIA 202 | Ibuki, Maido 1 & Others",StatusActive,90.0,Success,JPN
+788,788,ULA,USA,"Sun Jan 18, 2009 02:47 UTC",Delta IV Heavy | NROL-26,StatusActive,350.0,Success,USA
+789,789,Arianespace,France,"Sat Dec 20, 2008 22:35 UTC",Ariane 5 ECA | Hot Bird 9 & Eutelsat W2M,StatusActive,200.0,Success,FRA
+791,791,NASA,USA,"Sat Nov 15, 2008 00:55 UTC",Space Shuttle Endeavour | STS-126,StatusRetired,450.0,Success,USA
+792,792,CASC,China,"Wed Nov 05, 2008 00:15 UTC",Long March 2D | Shiyan-3 & Chuangxin-1(02),StatusActive,29.75,Success,CHN
+793,793,CASC,China,"Wed Nov 05, 2008 00:15 UTC",Long March 2D | Shiyan-3 & Chuangxin-1(02),StatusActive,29.75,Success,CHN
+794,794,CASC,China,"Wed Oct 29, 2008 16:53 UTC",Long March 3B/E | VENESAT 1,StatusActive,29.15,Success,CHN
+796,796,CASC,China,"Sat Oct 25, 2008 01:15 UTC",Long March 4B | Shijian-6E & F,StatusActive,64.68,Success,CHN
+797,797,ISRO,India,"Wed Oct 22, 2008 00:52 UTC",PSLV-XL | Chandrayaan-1,StatusActive,31.0,Success,IND
+798,798,Northrop,USA,"Sun Oct 19, 2008 17:47 UTC",Pegasus XL | IBEX,StatusActive,40.0,Success,USA
+799,799,Kosmotras,Russian Federation,"Wed Oct 01, 2008 06:37 UTC",Dnepr | THEOS 1,StatusRetired,29.0,Success,RUS
+800,800,SpaceX,USA,"Sun Sep 28, 2008 23:15 UTC",Falcon 1 | RatSat,StatusRetired,7.0,Success,USA
+805,805,Kosmotras,Kazakhstan,"Fri Aug 29, 2008 07:15 UTC",Dnepr | RapidEye 1 to 5,StatusRetired,29.0,Success,KAZ
+807,807,Arianespace,France,"Thu Aug 14, 2008 20:44 UTC",Ariane 5 ECA | Superbird-7 & AMC-21,StatusActive,200.0,Success,FRA
+808,808,SpaceX,USA,"Sun Aug 03, 2008 03:34 UTC",Falcon 1 | Flight 3,StatusRetired,7.0,Failure,USA
+811,811,Arianespace,France,"Mon Jul 07, 2008 21:47 UTC",Ariane 5 ECA | ProtoStar-1 & Badr-6,StatusActive,200.0,Success,FRA
+814,814,Arianespace,France,"Thu Jun 12, 2008 22:05 UTC",Ariane 5 ECA | Skynet 5C & Turksat 3A,StatusActive,200.0,Success,FRA
+817,817,NASA,USA,"Sat May 31, 2008 21:02 UTC",Space Shuttle Discovery | STS-124,StatusRetired,450.0,Success,USA
+818,818,CASC,China,"Tue May 27, 2008 03:02 UTC",Long March 4C | Fengyun-3A,StatusActive,64.68,Success,CHN
+819,819,VKS RF,Russian Federation,"Fri May 23, 2008 15:20 UTC","Rokot/Briz KM | Cosmos 2437 to 2439, Youbilielnyi",StatusRetired,41.8,Success,RUS
+822,822,ISRO,India,"Mon Apr 28, 2008 03:53 UTC",PSLV-CA | Cartosat-2A & Rideshares,StatusActive,21.0,Success,IND
+823,823,CASC,China,"Fri Apr 25, 2008 15:35 UTC",Long March 3C | Tianlian I-01,StatusActive,20.14,Success,CHN
+824,824,Arianespace,France,"Fri Apr 18, 2008 22:17 UTC",Ariane 5 ECA | Star One C2 & Vinasat-1,StatusActive,200.0,Success,FRA
+825,825,Northrop,USA,"Tue Apr 15, 2008 17:01 UTC",Pegasus XL | C/NOFS,StatusActive,40.0,Success,USA
+826,826,ULA,USA,"Mon Apr 14, 2008 20:12 UTC",Atlas V 421 | ICO G1,StatusActive,123.0,Success,USA
+830,830,ULA,USA,"Thu Mar 13, 2008 10:02 UTC",Atlas V 411 | NROL-28,StatusActive,115.0,Success,USA
+831,831,NASA,USA,"Tue Mar 11, 2008 06:28 UTC",Space Shuttle Endeavour | STS-123,StatusRetired,450.0,Success,USA
+833,833,MHI,Japan,"Sat Feb 23, 2008 08:55 UTC",H-IIA 202 | Kizuna,StatusActive,90.0,Success,JPN
+834,834,NASA,USA,"Thu Feb 07, 2008 19:45 UTC",Space Shuttle Atlantis | STS-122,StatusRetired,450.0,Success,USA
+835,835,ISRO,India,"Mon Jan 21, 2008 03:45 UTC",PSLV-CA | TecSAR,StatusActive,21.0,Success,IND
+839,839,ULA,USA,"Mon Dec 10, 2007 22:05 UTC",Atlas V 401 | NROL-24,StatusActive,109.0,Success,USA
+841,841,Arianespace,France,"Wed Nov 14, 2007 22:03 UTC",Ariane 5 ECA | Skynet 5B & Star One C1,StatusActive,200.0,Success,FRA
+842,842,CASC,China,"Sun Nov 11, 2007 22:48 UTC",Long March 4C | Yaogan 3,StatusActive,64.68,Success,CHN
+843,843,ULA,USA,"Sun Nov 11, 2007 01:50 UTC",Delta IV Heavy | DSP-23,StatusActive,350.0,Success,USA
+847,847,NASA,USA,"Tue Oct 23, 2007 03:38 UTC",Space Shuttle Discovery | STS-120,StatusRetired,450.0,Success,USA
+849,849,ULA,USA,"Thu Oct 11, 2007 00:22 UTC",Atlas V 421 | WSG-1,StatusActive,123.0,Success,USA
+852,852,CASC,China,"Wed Sep 19, 2007 03:26 UTC",Long March 4B | CBERS-2B,StatusActive,64.68,Success,CHN
+856,856,ISRO,India,"Sun Sep 02, 2007 12:51 UTC",GSLV Mk I | INSAT-4CR,StatusRetired,47.0,Partial Failure,IND
+857,857,Arianespace,France,"Tue Aug 14, 2007 23:44 UTC",Ariane 5 ECA | Spaceway-3 & BSat-3A,StatusActive,200.0,Success,FRA
+858,858,NASA,USA,"Wed Aug 08, 2007 22:36 UTC",Space Shuttle Endeavour | STS-118,StatusRetired,450.0,Success,USA
+863,863,Kosmotras,Russian Federation,"Thu Jun 28, 2007 15:02 UTC",Dnepr | Genesis 2,StatusRetired,29.0,Success,RUS
+864,864,ULA,USA,"Fri Jun 15, 2007 15:11 UTC",Atlas V 401 | NROL-30 & NOSS-3,StatusActive,109.0,Partial Failure,USA
+865,865,Kosmotras,Kazakhstan,"Fri Jun 15, 2007 02:14 UTC",Dnepr | TerraSAR-X,StatusRetired,29.0,Success,KAZ
+867,867,NASA,USA,"Fri Jun 08, 2007 23:38 UTC",Space Shuttle Atlantis | STS-117,StatusRetired,450.0,Success,USA
+869,869,CASC,China,"Thu May 31, 2007 16:08 UTC",Long March 3A | SinoSat 3,StatusActive,69.7,Success,CHN
+870,870,CASC,China,"Fri May 25, 2007 07:12 UTC",Long March 2D | Yaogan 2 & ZDPS-1,StatusActive,29.75,Success,CHN
+871,871,CASC,China,"Sun May 13, 2007 16:01 UTC",Long March 3B/E | NIGCOMSAT-1,StatusActive,29.15,Success,CHN
+872,872,Arianespace,France,"Fri May 04, 2007 22:29 UTC",Ariane 5 ECA | Astra 1L & Galaxy 17,StatusActive,200.0,Success,FRA
+873,873,Northrop,USA,"Wed Apr 25, 2007 20:26 UTC",Pegasus XL | AIM,StatusActive,40.0,Success,USA
+874,874,Northrop,USA,"Tue Apr 24, 2007 06:48 UTC",Minotaur I | NFIRE,StatusActive,40.0,Success,USA
+875,875,ISRO,India,"Mon Apr 23, 2007 10:00 UTC",PSLV-CA | AGILE & AAM,StatusActive,21.0,Success,IND
+876,876,Kosmotras,Kazakhstan,"Tue Apr 17, 2007 06:46 UTC",Dnepr | EgyptSat 1 & Others,StatusRetired,29.0,Success,KAZ
+877,877,CASC,China,"Fri Apr 13, 2007 20:11 UTC",Long March 3A | Compass-M1,StatusActive,69.7,Success,CHN
+878,878,CASC,China,"Wed Apr 11, 2007 03:27 UTC",Long March 2C | Haiyang-1B,StatusActive,30.8,Success,CHN
+879,879,SpaceX,USA,"Wed Mar 21, 2007 01:10 UTC",Falcon 1 | DemoSat,StatusRetired,7.0,Failure,USA
+880,880,Arianespace,France,"Sun Mar 11, 2007 22:03 UTC",Ariane 5 ECA | Skynet 5A & INSAT-4B,StatusActive,200.0,Success,FRA
+881,881,ULA,USA,"Fri Mar 09, 2007 03:10 UTC","Atlas V 401 | STP-1, FalconSat-3",StatusActive,109.0,Success,USA
+884,884,CASC,China,"Fri Feb 02, 2007 16:28 UTC",Long March 3A | Beidou-1D,StatusActive,69.7,Success,CHN
+886,886,ISRO,India,"Wed Jan 10, 2007 03:54 UTC",PSLV-G | Cartosat-2 & SRE-1 & Rideshares,StatusRetired,25.0,Success,IND
+889,889,Northrop,USA,"Sat Dec 16, 2006 12:00 UTC",Minotaur I | TacSat-2 & GeneSat-1,StatusActive,40.0,Success,USA
+891,891,NASA,USA,"Sun Dec 10, 2006 00:47 UTC",Space Shuttle Discovery | STS-116,StatusRetired,450.0,Success,USA
+892,892,Arianespace,France,"Fri Dec 08, 2006 22:08 UTC",Ariane 5 ECA | WildBlue-1 & AMC-18,StatusActive,200.0,Success,FRA
+893,893,CASC,China,"Fri Dec 08, 2006 00:53 UTC",Long March 3A | Fengyun-2D,StatusActive,69.7,Success,CHN
+895,895,Boeing,USA,"Sat Nov 04, 2006 13:53 UTC",Delta IV Medium | DMSP F17,StatusRetired,133.0,Success,USA
+899,899,CASC,China,"Mon Oct 23, 2006 23:34 UTC",Long March 4B | Shijian-6C & 6D,StatusActive,64.68,Success,CHN
+900,900,Arianespace,France,"Fri Oct 13, 2006 20:56 UTC","Ariane 5 ECA | DirecTV-9S, Optus D1, LDREX-2",StatusActive,200.0,Success,FRA
+903,903,CASC,China,"Tue Sep 12, 2006 16:02 UTC",Long March 3A | Chinasat-22A,StatusActive,69.7,Success,CHN
+904,904,MHI,Japan,"Mon Sep 11, 2006 04:35 UTC",H-IIA 202 | IGS-Optical 2,StatusActive,90.0,Success,JPN
+905,905,NASA,USA,"Sat Sep 09, 2006 15:14 UTC",Space Shuttle Atlantis | STS-115,StatusRetired,450.0,Success,USA
+906,906,CASC,China,"Sat Sep 09, 2006 07:00 UTC",Long March 2C | Shijian-8,StatusActive,30.8,Success,CHN
+908,908,Arianespace,France,"Fri Aug 11, 2006 22:15 UTC",Ariane 5 ECA | JCSAT-10 & Syracuse 3B,StatusActive,200.0,Success,FRA
+909,909,Eurockot,Russian Federation,"Fri Jul 28, 2006 07:05 UTC",Rokot/Briz KM | KompSat-2,StatusRetired,41.8,Success,RUS
+910,910,Kosmotras,Kazakhstan,"Wed Jul 26, 2006 19:43 UTC",Dnepr | BelKa 1 & Others,StatusRetired,29.0,Failure,KAZ
+912,912,Kosmotras,Russian Federation,"Wed Jul 12, 2006 14:53 UTC",Dnepr | Genesis 1,StatusRetired,29.0,Success,RUS
+913,913,ISRO,India,"Mon Jul 10, 2006 12:08 UTC",GSLV Mk I | INSAT-4C,StatusRetired,47.0,Failure,IND
+914,914,NASA,USA,"Tue Jul 04, 2006 18:37 UTC",Space Shuttle Discovery | STS-121,StatusRetired,450.0,Success,USA
+915,915,Boeing,USA,"Wed Jun 28, 2006 03:33 UTC","Delta IV Medium+ (4,2) | NROL-22",StatusRetired,164.0,Success,USA
+919,919,Arianespace,France,"Sat May 27, 2006 21:09 UTC",Ariane 5 ECA | Satmex-6 & Thaicom-5,StatusActive,200.0,Success,FRA
+921,921,Boeing,USA,"Wed May 24, 2006 22:11 UTC","Delta IV Medium+ (4,2) | GOES-N (GOES-13)",StatusRetired,164.0,Success,USA
+923,923,CASC,China,"Wed Apr 26, 2006 22:48 UTC",Long March 4C | Yaogan 1,StatusActive,64.68,Success,CHN
+925,925,ILS,USA,"Thu Apr 20, 2006 20:27 UTC",Atlas V 411 | Astra 1KR,StatusActive,115.0,Success,USA
+926,926,Northrop,USA,"Sat Apr 15, 2006 01:40 UTC",Minotaur I | COSMIC (FORMOSAT-3),StatusActive,40.0,Success,USA
+928,928,Northrop,USA,"Tue Mar 28, 2006 20:10 UTC",Pegasus XL | ST-5,StatusActive,40.0,Success,USA
+929,929,SpaceX,USA,"Fri Mar 24, 2006 21:30 UTC",Falcon 1 | FalconSat-2,StatusRetired,7.0,Failure,USA
+930,930,Arianespace,France,"Sat Mar 11, 2006 22:33 UTC",Ariane 5 ECA | Spainsat & Hot Bird 7A,StatusActive,200.0,Success,FRA
+935,935,ILS,USA,"Thu Jan 19, 2006 19:00 UTC",Atlas V 551 | New Horizons,StatusActive,153.0,Success,USA
+938,938,Arianespace,France,"Wed Nov 16, 2005 23:46 UTC",Ariane 5 ECA | Spaceway-2 & Telkom-2,StatusActive,200.0,Success,FRA
+944,944,Eurockot,Russian Federation,"Sat Oct 08, 2005 15:02 UTC",Rokot/Briz KM | CryoSat-1,StatusRetired,41.8,Failure,RUS
+946,946,Northrop,USA,"Thu Sep 22, 2005 19:24 UTC",Minotaur I | Streak (STP-R1),StatusActive,40.0,Success,USA
+947,947,CASC,China,"Mon Aug 29, 2005 08:45 UTC",Long March 2D | FSW-3 No. 3,StatusActive,29.75,Success,CHN
+948,948,VKS RF,Russian Federation,"Fri Aug 26, 2005 18:34 UTC",Rokot/Briz KM | Monitor-E,StatusRetired,41.8,Success,RUS
+949,949,Kosmotras,Kazakhstan,"Tue Aug 23, 2005 21:09 UTC",Dnepr | Kirari and Reimei,StatusRetired,29.0,Success,KAZ
+950,950,ILS,USA,"Fri Aug 12, 2005 11:43 UTC",Atlas V 401 | Mars Reconnaissance Orbiter,StatusActive,109.0,Success,USA
+952,952,CASC,China,"Tue Aug 02, 2005 07:30 UTC",Long March 2C | FSW-4 No. 2,StatusActive,30.8,Success,CHN
+953,953,NASA,USA,"Tue Jul 26, 2005 14:39 UTC",Space Shuttle Discovery | STS-114,StatusRetired,450.0,Success,USA
+955,955,CASC,China,"Tue Jul 05, 2005 22:40 UTC",Long March 2D | Shijian-7,StatusActive,29.75,Success,CHN
+960,960,ISRO,India,"Thu May 05, 2005 04:45 UTC",PSLV-G | Cartosat-1 & HAMSAT,StatusRetired,25.0,Success,IND
+963,963,Northrop,USA,"Fri Apr 15, 2005 17:27 UTC",Pegasus XL | DART,StatusActive,40.0,Success,USA
+965,965,Northrop,USA,"Mon Apr 11, 2005 13:35 UTC",Minotaur I | XSS-11,StatusActive,40.0,Success,USA
+966,966,ILS,USA,"Fri Mar 11, 2005 21:42 UTC",Atlas V 431 | Inmarsat-4 F1,StatusActive,130.0,Success,USA
+969,969,Arianespace,France,"Sat Feb 12, 2005 21:03 UTC","Ariane 5 ECA | XTAR-EUR, Maqsat-B2, Sloshsat-FLEVO",StatusActive,200.0,Success,FRA
+974,974,Boeing,USA,"Tue Dec 21, 2004 21:50 UTC",Delta IV Heavy | DemoSat and 3CS-1 & 2,StatusActive,350.0,Partial Failure,USA
+975,975,Arianespace,France,"Sat Dec 18, 2004 16:26 UTC","Ariane 5 G+ | Helios 2A, Essaim-1,2,3,4, PARASOL, Nanosat 01",StatusRetired,190.0,Success,FRA
+976,976,ILS,USA,"Fri Dec 17, 2004 12:07 UTC",Atlas V 521 | AMC-16,StatusActive,135.0,Success,USA
+978,978,CASC,China,"Thu Nov 18, 2004 10:45 UTC",Long March 2C | Shiyan-2,StatusActive,30.8,Success,CHN
+979,979,VKS RF,Russian Federation,"Mon Nov 08, 2004 18:29 UTC",Soyuz 2.1a | Demo Flight,StatusActive,48.5,Success,RUS
+981,981,CASC,China,"Sat Nov 06, 2004 03:10 UTC",Long March 4B | Ziyuan ll-03,StatusActive,64.68,Success,CHN
+982,982,CASC,China,"Tue Oct 19, 2004 01:20 UTC",Long March 3A | Fengyun-2C,StatusActive,69.7,Success,CHN
+983,983,CASC,China,"Mon Sep 27, 2004 08:00 UTC",Long March 2D | FSW-3 No.2,StatusActive,29.75,Success,CHN
+985,985,ISRO,India,"Mon Sep 20, 2004 10:31 UTC",GSLV Mk I | GSAT-3,StatusRetired,47.0,Success,IND
+986,986,CASC,China,"Wed Sep 08, 2004 23:14 UTC",Long March 4B | Shijian-6A & 6B,StatusActive,64.68,Success,CHN
+989,989,CASC,China,"Sun Aug 29, 2004 07:50 UTC",Long March 2C | FSW-4 No.1,StatusActive,30.8,Success,CHN
+991,991,CASC,China,"Sun Jul 25, 2004 07:05 UTC",Long March 2C | Double Star 2,StatusActive,30.8,Success,CHN
+993,993,Arianespace,France,"Sun Jul 18, 2004 00:44 UTC",Ariane 5 G+ | Anik F2,StatusRetired,190.0,Success,FRA
+995,995,Kosmotras,Kazakhstan,"Tue Jun 29, 2004 06:30 UTC",Dnepr | DEMETER & Others,StatusRetired,29.0,Success,KAZ
+1000,1000,Northrop,USA,"Thu May 20, 2004 17:47 UTC",Minotaur C (Taurus) | ROCSAT-2,StatusActive,45.0,Success,USA
+1004,1004,CASC,China,"Sun Apr 18, 2004 15:59 UTC",Long March 2C | Shiyan-1 & Nano Satellite 1,StatusActive,30.8,Success,CHN
+1008,1008,Arianespace,France,"Tue Mar 02, 2004 07:17 UTC",Ariane 5 G+ | Rosetta & Philae,StatusRetired,190.0,Success,FRA
+1013,1013,CASC,China,"Mon Dec 29, 2003 19:06 UTC",Long March 2C | Double Star 1,StatusActive,30.8,Success,CHN
+1019,1019,CASC,China,"Fri Nov 14, 2003 16:01 UTC",Long March 3A | Chinasat-20,StatusActive,69.7,Success,CHN
+1020,1020,CASC,China,"Mon Nov 03, 2003 07:20 UTC",Long March 2D | FSW-3 No.1,StatusActive,29.75,Success,CHN
+1021,1021,Eurockot,Russian Federation,"Thu Oct 30, 2003 13:43 UTC",Rokot/Briz KM | SERVIS-1,StatusRetired,41.8,Success,RUS
+1022,1022,CASC,China,"Tue Oct 21, 2003 03:16 UTC",Long March 4B | CBERS-2 & Chuangxin 1(01),StatusActive,64.68,Success,CHN
+1023,1023,Lockheed,USA,"Sat Oct 18, 2003 16:17 UTC",Titan II(23)G | USA-172,StatusRetired,35.0,Success,USA
+1024,1024,ISRO,India,"Fri Oct 17, 2003 04:52 UTC",PSLV-G | RESOURCESAT-1 (IRS-P6),StatusRetired,25.0,Success,IND
+1031,1031,Boeing,USA,"Fri Aug 29, 2003 23:13 UTC",Delta IV Medium | DSCS-3 B6,StatusRetired,133.0,Success,USA
+1035,1035,Northrop,USA,"Wed Aug 13, 2003 02:09 UTC",Pegasus XL | SCISAT-1,StatusActive,40.0,Success,USA
+1037,1037,ILS,USA,"Thu Jul 17, 2003 23:45 UTC",Atlas V 521 | Rainbow 1,StatusActive,135.0,Success,USA
+1039,1039,Eurockot,Russian Federation,"Mon Jun 30, 2003 14:15 UTC",Rokot/Briz KM | Monitor-E GVM & Others,StatusRetired,41.8,Success,RUS
+1040,1040,Northrop,USA,"Thu Jun 26, 2003 18:55 UTC",Pegasus XL | OrbView-3,StatusActive,40.0,Success,USA
+1047,1047,CASC,China,"Sat May 24, 2003 16:34 UTC",Long March 3A | Beidou-1C,StatusActive,69.7,Success,CHN
+1048,1048,ILS,USA,"Tue May 13, 2003 22:10 UTC",Atlas V 401 | HellasSat-2,StatusActive,109.0,Success,USA
+1050,1050,ISRO,India,"Thu May 08, 2003 11:28 UTC",GSLV Mk I | GSAT-2,StatusRetired,47.0,Success,IND
+1051,1051,Northrop,USA,"Mon Apr 28, 2003 12:00 UTC",Pegasus XL | GALEX,StatusActive,40.0,Success,USA
+1058,1058,Boeing,USA,"Tue Mar 11, 2003 00:59 UTC",Delta IV Medium | DSCS-3 A3,StatusRetired,133.0,Success,USA
+1061,1061,Northrop,USA,"Sat Jan 25, 2003 20:13 UTC",Pegasus XL | SORCE,StatusActive,40.0,Success,USA
+1062,1062,NASA,USA,"Thu Jan 16, 2003 15:39 UTC",Space Shuttle Columbia | STS-107,StatusRetired,450.0,Failure,USA
+1064,1064,Lockheed,USA,"Mon Jan 06, 2003 14:19 UTC",Titan II(23)G | Coriolis,StatusRetired,35.0,Success,USA
+1067,1067,Kosmotras,Kazakhstan,"Fri Dec 20, 2002",Dnepr | Rubin 2 & Others,StatusRetired,29.0,Success,KAZ
+1069,1069,MHI,Japan,"Sat Dec 14, 2002 01:31 UTC","H-IIA 202 | Midori 2, WEOS & Others",StatusActive,90.0,Success,JPN
+1070,1070,Arianespace,France,"Wed Dec 11, 2002 22:22 UTC","Ariane 5 ECA | Hot Bird 7, Stentor, MFD-A, MFD-B",StatusActive,200.0,Failure,FRA
+1073,1073,NASA,USA,"Sun Nov 24, 2002 00:49 UTC",Space Shuttle Endeavour | STS-113,StatusRetired,450.0,Success,USA
+1074,1074,Boeing,USA,"Wed Nov 20, 2002 22:39 UTC","Delta IV Medium+ (4,2) | Eutelsat W5",StatusRetired,164.0,Success,USA
+1075,1075,CASC,China,"Sun Oct 27, 2002 03:17 UTC",Long March 4B | Ziyuan ll-02,StatusActive,64.68,Success,CHN
+1076,1076,NASA,USA,"Mon Oct 07, 2002 19:45 UTC",Space Shuttle Atlantis | STS-112,StatusRetired,450.0,Success,USA
+1080,1080,ISRO,India,"Thu Sep 12, 2002 10:23 UTC",PSLV-G | C4 - MetSat-1 (Kalpana-1),StatusRetired,25.0,Success,IND
+1084,1084,ILS,USA,"Wed Aug 21, 2002 22:05 UTC",Atlas V 401 | Hot Bird 6,StatusActive,109.0,Success,USA
+1089,1089,Lockheed,USA,"Mon Jun 24, 2002 18:23 UTC",Titan II(23)G | NOAA-17,StatusRetired,35.0,Success,USA
+1090,1090,Eurockot,Russian Federation,"Thu Jun 20, 2002 09:33 UTC",Rokot/Briz KM | Iridium SV97 and SV98,StatusRetired,41.8,Success,RUS
+1092,1092,NASA,USA,"Wed Jun 05, 2002 21:22 UTC",Space Shuttle Endeavour | STS-111,StatusRetired,450.0,Success,USA
+1096,1096,CASC,China,"Wed May 15, 2002 01:50 UTC",Long March 4B | Fengyun-1D & Haiyang-1A,StatusActive,64.68,Success,CHN
+1099,1099,NASA,USA,"Mon Apr 08, 2002 20:44 UTC",Space Shuttle Atlantis | STS-110,StatusRetired,450.0,Success,USA
+1103,1103,Eurockot,Russian Federation,"Sun Mar 17, 2002 09:21 UTC",Rokot/Briz KM | GRACE 1 & 2,StatusRetired,41.8,Success,RUS
+1105,1105,NASA,USA,"Fri Mar 01, 2002 11:22 UTC",Space Shuttle Columbia | STS-109,StatusRetired,450.0,Success,USA
+1110,1110,Northrop,USA,"Tue Feb 05, 2002 20:58 UTC",Pegasus XL | RHESSI,StatusActive,40.0,Success,USA
+1118,1118,NASA,USA,"Wed Dec 05, 2001 22:19 UTC",Space Shuttle Endeavour | STS-108,StatusRetired,450.0,Success,USA
+1121,1121,ISRO,India,"Mon Oct 22, 2001 10:23 UTC","PSLV-G | TES, BIRD & PROBA",StatusRetired,25.0,Success,IND
+1127,1127,Northrop,USA,"Fri Sep 21, 2001 18:49 UTC",Minotaur C (Taurus) | Orbview-4/QuikTOMS,StatusActive,45.0,Failure,USA
+1130,1130,MHI,Japan,"Wed Aug 29, 2001 07:00 UTC",H-IIA 202 | VEP 2 & LRE,StatusActive,90.0,Success,JPN
+1131,1131,NASA,USA,"Fri Aug 10, 2001 21:10 UTC",Space Shuttle Discovery | STS-105,StatusRetired,450.0,Success,USA
+1137,1137,NASA,USA,"Thu Jul 12, 2001 09:03 UTC",Space Shuttle Atlantis | STS-104,StatusRetired,450.0,Success,USA
+1144,1144,NASA,USA,"Thu Apr 19, 2001 18:40 UTC",Space Shuttle Endeavour | STS-100,StatusRetired,450.0,Success,USA
+1145,1145,ISRO,India,"Wed Apr 18, 2001 10:13 UTC",GSLV Mk I | GSAT-1,StatusRetired,47.0,Partial Failure,IND
+1149,1149,NASA,USA,"Thu Mar 08, 2001 11:42 UTC",Space Shuttle Discovery | STS-102,StatusRetired,450.0,Success,USA
+1152,1152,NASA,USA,"Wed Feb 07, 2001 23:13 UTC",Space Shuttle Atlantis | STS-98,StatusRetired,450.0,Success,USA
+1158,1158,CASC,China,"Wed Dec 20, 2000 16:20 UTC",Long March 3A | Beidou-1B,StatusActive,69.7,Success,CHN
+1162,1162,NASA,USA,"Thu Nov 30, 2000 03:06 UTC",Space Shuttle Endeavour | STS-97,StatusRetired,450.0,Success,USA
+1168,1168,CASC,China,"Mon Oct 30, 2000 16:02 UTC",Long March 3A | Beidou-1A,StatusActive,69.7,Success,CHN
+1172,1172,NASA,USA,"Wed Oct 11, 2000 23:17 UTC",Space Shuttle Discovery | STS-92,StatusRetired,450.0,Success,USA
+1173,1173,Northrop,USA,"Mon Oct 09, 2000 05:38 UTC",Pegasus | HETE 2,StatusRetired,40.0,Success,USA
+1175,1175,Kosmotras,Kazakhstan,"Tue Sep 26, 2000 10:05 UTC",Dnepr | Megsat 1 & Others,StatusRetired,29.0,Success,KAZ
+1177,1177,Lockheed,USA,"Thu Sep 21, 2000 10:22 UTC",Titan II(23)G | NOAA-16,StatusRetired,35.0,Success,USA
+1179,1179,NASA,USA,"Fri Sep 08, 2000 12:45 UTC",Space Shuttle Atlantis | STS-106,StatusRetired,450.0,Success,USA
+1185,1185,Northrop,USA,"Wed Jul 19, 2000 20:09 UTC",Minotaur I | MightySat 2.1,StatusActive,40.0,Success,USA
+1192,1192,Northrop,USA,"Wed Jun 07, 2000 13:19 UTC",Pegasus XL | TSX-5,StatusActive,40.0,Success,USA
+1194,1194,NASA,USA,"Fri May 19, 2000 10:11 UTC",Space Shuttle Atlantis | STS-101,StatusRetired,450.0,Success,USA
+1195,1195,Eurockot,Russian Federation,"Tue May 16, 2000 08:27 UTC",Rokot/Briz KM | SimSat 1 & 2 (Iridium),StatusRetired,41.8,Success,RUS
+1203,1203,Northrop,USA,"Sun Mar 12, 2000 09:29 UTC",Minotaur C (Taurus) | Multispectral Thermal Imager (MTI),StatusActive,45.0,Success,USA
+1206,1206,NASA,USA,"Fri Feb 11, 2000 16:43 UTC",Space Shuttle Endeavour | STS-99,StatusRetired,450.0,Success,USA
+1210,1210,Northrop,USA,"Thu Jan 27, 2000 03:03 UTC",Minotaur I | JAWSat,StatusActive,40.0,Success,USA
+1211,1211,CASC,China,"Tue Jan 25, 2000 16:45 UTC",Long March 3A | ChinaSat-22,StatusActive,69.7,Success,CHN
+1214,1214,Northrop,USA,"Fri Dec 31, 1999 07:13 UTC",Minotaur C (Taurus) | KOMPSAT & ACRIMSAT,StatusActive,45.0,Success,USA
+1218,1218,NASA,USA,"Mon Dec 20, 1999 00:50 UTC",Space Shuttle Discovery | STS-103,StatusRetired,450.0,Success,USA
+1220,1220,Lockheed,USA,"Sun Dec 12, 1999 17:36 UTC",Titan II(23)G | USA-147,StatusRetired,35.0,Success,USA
+1223,1223,Northrop,USA,"Sat Dec 04, 1999 18:53 UTC",Pegasus XL/HAPS | Orbcomm D1-D8,StatusActive,40.0,Success,USA
+1230,1230,CASC,China,"Thu Oct 14, 1999 03:15 UTC",Long March 4B | CBERS-1 & SACI 1,StatusActive,64.68,Success,CHN
+1241,1241,NASA,USA,"Fri Jul 23, 1999 04:31 UTC",Space Shuttle Columbia | STS-93,StatusRetired,450.0,Success,USA
+1246,1246,Lockheed,USA,"Sun Jun 20, 1999 02:15 UTC",Titan II(23)G | QuikSCAT,StatusRetired,35.0,Success,USA
+1247,1247,CASC,China,"Fri Jun 11, 1999 17:15 UTC",Long March 2C | Iridium 92 & 93,StatusActive,30.8,Success,CHN
+1249,1249,ISRO,India,"Sat May 29, 1999 11:52 UTC","PSLV-G | IRS-P4, DLR-Tubsat, & Kitsat-3",StatusRetired,25.0,Success,IND
+1250,1250,NASA,USA,"Thu May 27, 1999 10:49 UTC",Space Shuttle Discovery | STS-96,StatusRetired,450.0,Success,USA
+1252,1252,Northrop,USA,"Tue May 18, 1999 05:09 UTC",Pegasus XL/HAPS | TERRIERS & MUBLCOM,StatusActive,40.0,Success,USA
+1253,1253,CASC,China,"Mon May 10, 1999 01:33 UTC",Long March 4B | Fengyun 1C & Shijian-5,StatusActive,64.68,Success,CHN
+1258,1258,Kosmotras,Kazakhstan,"Wed Apr 21, 1999",Dnepr | UoSat 12,StatusRetired,29.0,Success,KAZ
+1264,1264,Northrop,USA,"Fri Mar 05, 1999 02:56 UTC",Pegasus XL | WIRE,StatusActive,40.0,Success,USA
+1273,1273,CASC,China,"Sat Dec 19, 1998 11:39 UTC",Long March 2C | Iridium 88 & 89,StatusActive,30.8,Success,CHN
+1276,1276,Northrop,USA,"Sun Dec 06, 1998 00:57 UTC",Pegasus XL | SWAS,StatusActive,40.0,Success,USA
+1278,1278,NASA,USA,"Fri Dec 04, 1998 08:35 UTC",Space Shuttle Endeavour | STS-88,StatusRetired,450.0,Success,USA
+1281,1281,NASA,USA,"Thu Oct 29, 1998 19:19 UTC",Space Shuttle Discovery | STS-95,StatusRetired,450.0,Success,USA
+1283,1283,Northrop,USA,"Thu Oct 22, 1998 00:02 UTC",Pegasus | SCD-2,StatusRetired,40.0,Success,USA
+1288,1288,Northrop,USA,"Sat Oct 03, 1998 10:04 UTC",Minotaur C (Taurus) | STEX (NROL-8),StatusActive,45.0,Success,USA
+1290,1290,Northrop,USA,"Wed Sep 23, 1998 05:06 UTC",Pegasus XL/HAPS | Orbcomm C1 - C8,StatusActive,40.0,Success,USA
+1298,1298,CASC,China,"Wed Aug 19, 1998 23:01 UTC",Long March 2C | Iridium 76 & 78,StatusActive,30.8,Success,CHN
+1301,1301,Northrop,USA,"Sun Aug 02, 1998 16:24 UTC",Pegasus XL/HAPS | Orbcomm B1 - B8,StatusActive,40.0,Success,USA
+1311,1311,NASA,USA,"Tue Jun 02, 1998 22:06 UTC",Space Shuttle Discovery | STS-91,StatusRetired,450.0,Success,USA
+1314,1314,Lockheed,USA,"Wed May 13, 1998 15:52 UTC",Titan II(23)G | NOAA-15,StatusRetired,35.0,Success,USA
+1317,1317,CASC,China,"Sat May 02, 1998 09:16 UTC",Long March 2C | Iridium 69 & 71,StatusActive,30.8,Success,CHN
+1320,1320,NASA,USA,"Fri Apr 17, 1998 18:19 UTC",Space Shuttle Columbia | STS-90,StatusRetired,450.0,Success,USA
+1321,1321,Northrop,USA,"Thu Apr 02, 1998 16:24 UTC",Pegasus XL | TRACE,StatusActive,40.0,Success,USA
+1323,1323,CASC,China,"Wed Mar 25, 1998 17:01 UTC",Long March 2C | Iridium 51 & 61,StatusActive,30.8,Success,CHN
+1328,1328,Northrop,USA,"Thu Feb 26, 1998 07:07 UTC",Pegasus XL | SNOE & BATSAT,StatusActive,40.0,Success,USA
+1332,1332,Northrop,USA,"Tue Feb 10, 1998 13:20 UTC",Minotaur C (Taurus) | GFO & Orbcomm 11 and 12,StatusActive,45.0,Success,USA
+1336,1336,NASA,USA,"Thu Jan 22, 1998 02:48 UTC",Space Shuttle Endeavour | STS-89,StatusRetired,450.0,Success,USA
+1341,1341,Northrop,USA,"Tue Dec 23, 1997 19:11 UTC",Pegasus XL/HAPS | Orbcomm A1-A8,StatusActive,40.0,Success,USA
+1347,1347,CASC,China,"Mon Dec 08, 1997 07:16 UTC",Long March 2C | Iridium 42 & 44,StatusActive,30.8,Success,CHN
+1350,1350,NASA,USA,"Wed Nov 19, 1997 19:46 UTC",Space Shuttle Columbia | STS-87,StatusRetired,450.0,Success,USA
+1358,1358,Northrop,USA,"Wed Oct 22, 1997 13:13 UTC",Pegasus XL | STEP-4,StatusActive,40.0,Success,USA
+1362,1362,ISRO,India,"Mon Sep 29, 1997 10:20 UTC",PSLV-G | IRS-1D,StatusRetired,25.0,Partial Failure,IND
+1364,1364,NASA,USA,"Thu Sep 25, 1997 14:34 UTC",Space Shuttle Atlantis | STS-86,StatusRetired,450.0,Success,USA
+1370,1370,CASC,China,"Mon Sep 01, 1997 14:00 UTC",Long March 2C | Iridium mass simulator A&B,StatusActive,30.8,Success,CHN
+1371,1371,Northrop,USA,"Fri Aug 29, 1997 15:02 UTC",Pegasus XL | FORTE,StatusActive,40.0,Success,USA
+1377,1377,NASA,USA,"Thu Aug 07, 1997 14:41 UTC",Space Shuttle Discovery | STS-85,StatusRetired,450.0,Success,USA
+1378,1378,Northrop,USA,"Fri Aug 01, 1997 20:20 UTC",Pegasus XL | OrbView-2,StatusActive,40.0,Success,USA
+1382,1382,NASA,USA,"Tue Jul 01, 1997 18:02 UTC",Space Shuttle Columbia | STS-94,StatusRetired,450.0,Success,USA
+1388,1388,NASA,USA,"Thu May 15, 1997 08:07 UTC",Space Shuttle Atlantis | STS-84,StatusRetired,450.0,Success,USA
+1390,1390,CASC,China,"Sun May 11, 1997 16:17 UTC",Long March 3A | ChinaSat 6,StatusActive,69.7,Success,CHN
+1393,1393,Northrop,USA,"Mon Apr 21, 1997 11:59 UTC",Pegasus XL | MiniSat & Celestis space burial,StatusActive,40.0,Success,USA
+1396,1396,NASA,USA,"Fri Apr 04, 1997 19:20 UTC",Space Shuttle Columbia | STS-83,StatusRetired,450.0,Success,USA
+1397,1397,Lockheed,USA,"Fri Apr 04, 1997 16:47 UTC",Titan II(23)G | USA-131,StatusRetired,35.0,Success,USA
+1405,1405,NASA,USA,"Tue Feb 11, 1997 08:55 UTC",Space Shuttle Discovery | STS-82,StatusRetired,450.0,Success,USA
+1408,1408,NASA,USA,"Sun Jan 12, 1997 09:27 UTC",Space Shuttle Atlantis | STS-81,StatusRetired,450.0,Success,USA
+1413,1413,NASA,USA,"Sat Dec 07, 1996 11:49 UTC",Space Shuttle Columbia | STS-80,StatusRetired,450.0,Success,USA
+1418,1418,Northrop,USA,"Mon Nov 04, 1996 17:08 UTC",Pegasus XL | HETE & SAC-B,StatusActive,40.0,Failure,USA
+1420,1420,CASC,China,"Sun Oct 20, 1996 07:20 UTC",Long March 2D | FSW-2 No.3,StatusActive,29.75,Success,CHN
+1421,1421,NASA,USA,"Mon Sep 16, 1996 08:54 UTC",Space Shuttle Atlantis | STS-79,StatusRetired,450.0,Success,USA
+1428,1428,Northrop,USA,"Wed Aug 21, 1996 09:47 UTC",Pegasus XL | FAST,StatusActive,40.0,Success,USA
+1438,1438,Northrop,USA,"Tue Jul 02, 1996 07:48 UTC",Pegasus XL | TOMS,StatusActive,40.0,Success,USA
+1439,1439,NASA,USA,"Thu Jun 20, 1996 14:49 UTC",Space Shuttle Columbia | STS-78,StatusRetired,450.0,Success,USA
+1443,1443,NASA,USA,"Sun May 19, 1996 10:30 UTC",Space Shuttle Endeavour | STS-77,StatusRetired,450.0,Success,USA
+1444,1444,Northrop,USA,"Fri May 17, 1996 02:44 UTC",Pegasus | MSTI-3,StatusRetired,40.0,Success,USA
+1454,1454,NASA,USA,"Fri Mar 22, 1996 08:13 UTC",Space Shuttle Atlantis | STS-76,StatusRetired,450.0,Success,USA
+1455,1455,ISRO,India,"Thu Mar 21, 1996 04:53 UTC",PSLV-G | IRS-P3,StatusRetired,25.0,Success,IND
+1457,1457,Northrop,USA,"Sat Mar 09, 1996 01:53 UTC",Pegasus XL | REX II,StatusActive,40.0,Success,USA
+1459,1459,NASA,USA,"Thu Feb 22, 1996 20:18 UTC",Space Shuttle Columbia | STS-75,StatusRetired,450.0,Success,USA
+1468,1468,NASA,USA,"Thu Jan 11, 1996 09:41 UTC",Space Shuttle Endeavour | STS-72,StatusRetired,450.0,Success,USA
+1479,1479,NASA,USA,"Sun Nov 12, 1995 12:30 UTC",Space Shuttle Atlantis | STS-74,StatusRetired,450.0,Success,USA
+1483,1483,EER,USA,"Mon Oct 23, 1995 22:03 UTC",Conestoga-1620 | METEOR,StatusRetired,20.0,Failure,USA
+1485,1485,NASA,USA,"Fri Oct 20, 1995 13:53 UTC",Space Shuttle Columbia | STS-73,StatusRetired,450.0,Success,USA
+1489,1489,NASA,USA,"Thu Sep 07, 1995 15:09 UTC",Space Shuttle Endeavour | STS-69,StatusRetired,450.0,Success,USA
+1499,1499,NASA,USA,"Thu Jul 13, 1995 13:41 UTC",Space Shuttle Discovery | STS-70,StatusRetired,450.0,Success,USA
+1503,1503,NASA,USA,"Tue Jun 27, 1995 19:32 UTC",Space Shuttle Atlantis | STS-71,StatusRetired,450.0,Success,USA
+1504,1504,Northrop,USA,"Thu Jun 22, 1995 19:58 UTC",Pegasus XL | STEP-3,StatusActive,40.0,Failure,USA
+1515,1515,Northrop,USA,"Mon Apr 03, 1995 13:48 UTC",Pegasus | Orbcomm F1 and F2 & OrbView-1,StatusRetired,40.0,Success,USA
+1523,1523,NASA,USA,"Thu Mar 02, 1995 06:38 UTC",Space Shuttle Endeavour | STS-67,StatusRetired,450.0,Success,USA
+1524,1524,NASA,USA,"Fri Feb 03, 1995 05:22 UTC",Space Shuttle Discovery | STS-63,StatusRetired,450.0,Success,USA
+1537,1537,CASC,China,"Tue Nov 29, 1994 17:02 UTC",Long March 3A | Chinasat-5,StatusActive,69.7,Partial Failure,CHN
+1542,1542,NASA,USA,"Thu Nov 03, 1994 16:59 UTC",Space Shuttle Atlantis | STS-66,StatusRetired,450.0,Success,USA
+1546,1546,ISRO,India,"Sat Oct 15, 1994 05:05 UTC",PSLV-G | IRS-P2,StatusRetired,25.0,Success,IND
+1550,1550,NASA,USA,"Fri Sep 30, 1994 11:16 UTC",Space Shuttle Endeavour | STS-68,StatusRetired,450.0,Success,USA
+1552,1552,NASA,USA,"Fri Sep 09, 1994 22:22 UTC",Space Shuttle Discovery | STS-64,StatusRetired,450.0,Success,USA
+1554,1554,Northrop,USA,"Sat Sep 03, 1994 14:38 UTC",Pegasus | APEX,StatusRetired,40.0,Success,USA
+1568,1568,NASA,USA,"Fri Jul 08, 1994 04:43 UTC",Space Shuttle Columbia | STS-65,StatusRetired,450.0,Success,USA
+1569,1569,CASC,China,"Sun Jul 03, 1994 08:00 UTC",Long March 2D | FSW-2 No.2,StatusActive,29.75,Success,CHN
+1570,1570,Northrop,USA,"Mon Jun 27, 1994 21:15 UTC",Pegasus XL | STEP-1,StatusActive,40.0,Failure,USA
+1574,1574,Northrop,USA,"Thu May 19, 1994 17:03 UTC",Pegasus/HAPS | STEP-2,StatusRetired,40.0,Partial Failure,USA
+1580,1580,NASA,USA,"Sat Apr 09, 1994 11:05 UTC",Space Shuttle Endeavour | STS-59,StatusRetired,450.0,Success,USA
+1582,1582,Northrop,USA,"Sun Mar 13, 1994 22:32 UTC",Minotaur C (Taurus) | STEP Mission 0 & DARPASAT,StatusActive,45.0,Success,USA
+1584,1584,NASA,USA,"Fri Mar 04, 1994 13:53 UTC",Space Shuttle Columbia | STS-62,StatusRetired,450.0,Success,USA
+1587,1587,CASC,China,"Tue Feb 08, 1994 08:34 UTC","Long March 3A | Shijian 4, Kuafu-1 (mass simulator)",StatusActive,69.7,Success,CHN
+1590,1590,NASA,USA,"Thu Feb 03, 1994 12:10 UTC",Space Shuttle Discovery | STS-60,StatusRetired,450.0,Success,USA
+1591,1591,Martin Marietta,USA,"Tue Jan 25, 1994 16:34 UTC",Titan II(23)G | Clementine,StatusRetired,35.0,Success,USA
+1598,1598,NASA,USA,"Thu Dec 02, 1993 09:27 UTC",Space Shuttle Endeavour | STS-61,StatusRetired,450.0,Success,USA
+1605,1605,NASA,USA,"Mon Oct 18, 1993 14:53 UTC",Space Shuttle Columbia | STS-58,StatusRetired,450.0,Success,USA
+1606,1606,CASC,China,"Fri Oct 08, 1993 08:00 UTC",Long March 2C | FSW-1 No.5,StatusActive,30.8,Success,CHN
+1607,1607,Martin Marietta,USA,"Tue Oct 05, 1993 17:56 UTC",Titan II(23)G | Landsat 6,StatusRetired,35.0,Failure,USA
+1609,1609,ISRO,India,"Mon Sep 20, 1993 05:12 UTC",PSLV-G | IRS-P1,StatusRetired,25.0,Failure,IND
+1612,1612,NASA,USA,"Sun Sep 12, 1993 11:45 UTC",Space Shuttle Discovery | STS-51,StatusRetired,450.0,Success,USA
+1626,1626,NASA,USA,"Mon Jun 21, 1993 13:07 UTC",Space Shuttle Endeavour | STS-57,StatusRetired,450.0,Success,USA
+1633,1633,NASA,USA,"Mon Apr 26, 1993 14:50 UTC",Space Shuttle Columbia | STS-55,StatusRetired,450.0,Success,USA
+1634,1634,Northrop,USA,"Sun Apr 25, 1993 13:56 UTC",Pegasus | ALEXIS,StatusRetired,40.0,Success,USA
+1638,1638,NASA,USA,"Thu Apr 08, 1993 05:29 UTC",Space Shuttle Discovery | STS-56,StatusRetired,450.0,Success,USA
+1648,1648,Northrop,USA,"Tue Feb 09, 1993 14:30 UTC",Pegasus | SCD-1,StatusRetired,40.0,Success,USA
+1652,1652,NASA,USA,"Wed Jan 13, 1993 13:59 UTC",Space Shuttle Endeavour | STS-54,StatusRetired,450.0,Success,USA
+1660,1660,NASA,USA,"Wed Dec 02, 1992 13:24 UTC",Space Shuttle Discovery | STS-53,StatusRetired,450.0,Success,USA
+1671,1671,NASA,USA,"Thu Oct 22, 1992 17:09 UTC",Space Shuttle Columbia | STS-52,StatusRetired,450.0,Success,USA
+1675,1675,CASC,China,"Tue Oct 06, 1992 06:20 UTC","Long March 2C | FSW-1 No.4, Freja",StatusActive,30.8,Success,CHN
+1676,1676,Martin Marietta,USA,"Fri Sep 25, 1992 17:05 UTC",Commercial Titan III | Mars Observer,StatusRetired,136.6,Success,USA
+1677,1677,NASA,USA,"Sat Sep 12, 1992 14:23 UTC",Space Shuttle Endeavour | STS-47,StatusRetired,450.0,Success,USA
+1684,1684,CASC,China,"Sun Aug 09, 1992 08:00 UTC",Long March 2D | FSW-2 No.1,StatusActive,29.75,Success,CHN
+1686,1686,NASA,USA,"Fri Jul 31, 1992 13:56 UTC",Space Shuttle Atlantis | STS-46,StatusRetired,450.0,Success,USA
+1695,1695,NASA,USA,"Thu Jun 25, 1992 16:12 UTC",Space Shuttle Columbia | STS-50,StatusRetired,450.0,Success,USA
+1700,1700,NASA,USA,"Thu May 07, 1992 23:40 UTC",Space Shuttle Endeavour | STS-49,StatusRetired,450.0,Success,USA
+1701,1701,Martin Marietta,USA,"Sat Apr 25, 1992 08:53 UTC",Titan II(23)G | USA-81,StatusRetired,35.0,Success,USA
+1705,1705,NASA,USA,"Tue Mar 24, 1992 13:13 UTC",Space Shuttle Atlantis | STS-45,StatusRetired,450.0,Success,USA
+1716,1716,NASA,USA,"Wed Jan 22, 1992 14:52 UTC",Space Shuttle Discovery | STS-42,StatusRetired,450.0,Success,USA
+1724,1724,NASA,USA,"Sun Nov 24, 1991 23:44 UTC",Space Shuttle Atlantis | STS-44,StatusRetired,450.0,Success,USA
+1732,1732,NASA,USA,"Thu Sep 12, 1991 23:11 UTC",Space Shuttle Discovery | STS-48,StatusRetired,450.0,Success,USA
+1741,1741,NASA,USA,"Fri Aug 02, 1991 15:02 UTC",Space Shuttle Atlantis | STS-43,StatusRetired,450.0,Success,USA
+1743,1743,Northrop,USA,"Sun Jul 21, 1991 17:33 UTC",Pegasus/HAPS | 7 Microsats,StatusRetired,40.0,Partial Failure,USA
+1750,1750,NASA,USA,"Wed Jun 05, 1991 13:24 UTC",Space Shuttle Columbia | STS-40,StatusRetired,450.0,Success,USA
+1755,1755,NASA,USA,"Sun Apr 28, 1991 11:33 UTC",Space Shuttle Discovery | STS-39,StatusRetired,450.0,Success,USA
+1760,1760,NASA,USA,"Fri Apr 05, 1991 14:22 UTC",Space Shuttle Atlantis | STS-37,StatusRetired,450.0,Success,USA
+1779,1779,NASA,USA,"Sun Dec 02, 1990 06:49 UTC",Space Shuttle Columbia | STS-35,StatusRetired,450.0,Success,USA
+1787,1787,NASA,USA,"Thu Nov 15, 1990 23:48 UTC",Space Shuttle Atlantis | STS-38,StatusRetired,450.0,Success,USA
+1793,1793,NASA,USA,"Sat Oct 06, 1990 11:47 UTC",Space Shuttle Discovery | STS-41,StatusRetired,450.0,Success,USA
+1794,1794,CASC,China,"Fri Oct 05, 1990 06:14 UTC",Long March 2C | FSW-1 No.3,StatusActive,30.8,Success,CHN
+1815,1815,Martin Marietta,USA,"Sat Jun 23, 1990 11:19 UTC",Commercial Titan III | Intelsat 604,StatusRetired,136.6,Success,USA
+1825,1825,NASA,USA,"Tue Apr 24, 1990 12:33 UTC",Space Shuttle Discovery | STS-31,StatusRetired,450.0,Success,USA
+1831,1831,Northrop,USA,"Thu Apr 05, 1990 19:10 UTC",Pegasus | Pegsat & NavySat,StatusRetired,40.0,Success,USA
+1837,1837,Martin Marietta,USA,"Wed Mar 14, 1990 11:52 UTC",Commercial Titan III | Intelsat 603,StatusRetired,136.6,Failure,USA
+1838,1838,NASA,USA,"Wed Feb 28, 1990 07:50 UTC",Space Shuttle Atlantis | STS-36,StatusRetired,450.0,Success,USA
+1854,1854,NASA,USA,"Tue Jan 09, 1990 12:35 UTC",Space Shuttle Columbia | STS-32,StatusRetired,450.0,Success,USA
+1855,1855,Martin Marietta,USA,"Mon Jan 01, 1990 00:07 UTC",Commercial Titan III | Skynet 4A & JCSAT-2,StatusRetired,136.6,Success,USA
+1861,1861,NASA,USA,"Thu Nov 23, 1989 00:23 UTC",Space Shuttle Discovery | STS-33R,StatusRetired,450.0,Success,USA
+1864,1864,NASA,USA,"Wed Oct 18, 1989 16:53 UTC",Space Shuttle Atlantis | STS-34R,StatusRetired,450.0,Success,USA
+1870,1870,Martin Marietta,USA,"Wed Sep 06, 1989 01:48 UTC",Titan II(23)G | USA-45,StatusRetired,35.0,Success,USA
+1877,1877,NASA,USA,"Tue Aug 08, 1989 12:37 UTC",Space Shuttle Columbia | STS-28R,StatusRetired,450.0,Success,USA
+1891,1891,NASA,USA,"Thu May 04, 1989 18:46 UTC",Space Shuttle Atlantis | STS-30R,StatusRetired,450.0,Success,USA
+1896,1896,NASA,USA,"Mon Mar 13, 1989 14:57 UTC",Space Shuttle Discovery | STS-29R,StatusRetired,450.0,Success,USA
+1913,1913,NASA,USA,"Fri Dec 02, 1988 14:30 UTC",Space Shuttle Atlantis | STS-27R,StatusRetired,450.0,Success,USA
+1916,1916,RVSN USSR,Kazakhstan,"Tue Nov 15, 1988 03:00 UTC",Energiya/Buran | Buran,StatusRetired,5000.0,Success,KAZ
+1922,1922,NASA,USA,"Thu Sep 29, 1988 15:37 UTC",Space Shuttle Discovery | STS-26R,StatusRetired,450.0,Success,USA
+1929,1929,Martin Marietta,USA,"Mon Sep 05, 1988 09:25 UTC",Titan II(23)G | USA-32,StatusRetired,35.0,Success,USA
+1932,1932,CASC,China,"Fri Aug 05, 1988 07:29 UTC",Long March 2C | FSW-1 No.2,StatusActive,30.8,Success,CHN
+1980,1980,CASC,China,"Wed Sep 09, 1987 07:15 UTC",Long March 2C | FSW-1 No.1,StatusActive,30.8,Success,CHN
+1986,1986,CASC,China,"Wed Aug 05, 1987 06:39 UTC",Long March 2C | FSW-0 No.9,StatusActive,30.8,Success,CHN
+2000,2000,RVSN USSR,Kazakhstan,"Fri May 15, 1987 17:30 UTC",Energiya/Polyus | Polyus Space Station,StatusRetired,5000.0,Success,KAZ
+2041,2041,CASC,China,"Mon Oct 06, 1986 05:40 UTC",Long March 2C | FSW-0 No.8,StatusActive,30.8,Success,CHN
+2079,2079,NASA,USA,"Tue Jan 28, 1986 16:38 UTC",Space Shuttle Challenger | STS-51-L,StatusRetired,450.0,Failure,USA
+2083,2083,NASA,USA,"Sun Jan 12, 1986 11:55 UTC",Space Shuttle Columbia | STS-61-C,StatusRetired,450.0,Success,USA
+2091,2091,NASA,USA,"Wed Nov 27, 1985 00:29 UTC",Space Shuttle Atlantis | STS-61-B,StatusRetired,450.0,Success,USA
+2094,2094,NASA,USA,"Wed Nov 06, 1985 17:00 UTC",Space Shuttle Challenger | STS-61-A,StatusRetired,450.0,Success,USA
+2101,2101,CASC,China,"Mon Oct 21, 1985 05:04 UTC",Long March 2C | FSW-0 No.7,StatusActive,30.8,Success,CHN
+2104,2104,NASA,USA,"Thu Oct 03, 1985 15:15 UTC",Space Shuttle Atlantis | STS-51-J,StatusRetired,450.0,Success,USA
+2115,2115,NASA,USA,"Tue Aug 27, 1985 10:58 UTC",Space Shuttle Discovery | STS-51-I,StatusRetired,450.0,Success,USA
+2121,2121,NASA,USA,"Thu Jul 25, 1985 21:00 UTC",Space Shuttle Challenger | STS-51-F,StatusRetired,450.0,Success,USA
+2129,2129,NASA,USA,"Mon Jun 17, 1985 11:33 UTC",Space Shuttle Discovery | STS-51-G,StatusRetired,450.0,Success,USA
+2136,2136,NASA,USA,"Mon May 06, 1985 16:02 UTC",Space Shuttle Challenger | STS-51-B,StatusRetired,450.0,Success,USA
+2141,2141,NASA,USA,"Fri Apr 12, 1985 13:59 UTC",Space Shuttle Discovery | STS-51-D,StatusRetired,450.0,Success,USA
+2153,2153,NASA,USA,"Thu Jan 24, 1985 19:50 UTC",Space Shuttle Discovery | STS-51-C,StatusRetired,450.0,Success,USA
+2168,2168,NASA,USA,"Thu Nov 08, 1984 12:15 UTC",Space Shuttle Discovery | STS-51-A,StatusRetired,450.0,Success,USA
+2172,2172,NASA,USA,"Fri Oct 05, 1984 11:03 UTC",Space Shuttle Challenger | STS-41-G,StatusRetired,450.0,Success,USA
+2177,2177,CASC,China,"Wed Sep 12, 1984 05:44 UTC",Long March 2C | FSW-0 No.6,StatusActive,30.8,Success,CHN
+2180,2180,NASA,USA,"Thu Aug 30, 1984 12:41 UTC",Space Shuttle Discovery | STS-41-D,StatusRetired,450.0,Success,USA
+2210,2210,NASA,USA,"Fri Apr 06, 1984 13:58 UTC",Space Shuttle Challenger | STS-41-C,StatusRetired,450.0,Success,USA
+2220,2220,NASA,USA,"Fri Feb 03, 1984 13:00 UTC",Space Shuttle Challenger | STS-41-B,StatusRetired,450.0,Success,USA
+2233,2233,NASA,USA,"Mon Nov 28, 1983 16:00 UTC",Space Shuttle Columbia | STS-9,StatusRetired,450.0,Success,USA
+2246,2246,NASA,USA,"Mon Sep 05, 1983 07:40 UTC",Space Shuttle Challenger | STS-8,StatusRetired,450.0,Success,USA
+2249,2249,CASC,China,"Fri Aug 19, 1983 06:00 UTC",Long March 2C | FSW-0 No.5,StatusActive,30.8,Success,CHN
+2261,2261,NASA,USA,"Sat Jun 18, 1983 11:33 UTC",Space Shuttle Challenger | STS-7,StatusRetired,450.0,Success,USA
+2278,2278,NASA,USA,"Mon Apr 04, 1983 18:30 UTC",Space Shuttle Challenger | STS-6,StatusRetired,450.0,Success,USA
+2300,2300,NASA,USA,"Thu Nov 11, 1982 12:19 UTC",Space Shuttle Columbia | STS-5,StatusRetired,450.0,Success,USA
+2309,2309,CASC,China,"Thu Sep 09, 1982 07:19 UTC",Long March 2C | FSW-0 No.4,StatusActive,30.8,Success,CHN
+2323,2323,NASA,USA,"Sun Jun 27, 1982 16:09 UTC",Space Shuttle Columbia | STS-4,StatusRetired,450.0,Success,USA
+2348,2348,NASA,USA,"Mon Mar 22, 1982 16:00 UTC",Space Shuttle Columbia | STS-3,StatusRetired,450.0,Success,USA
+2371,2371,NASA,USA,"Thu Nov 12, 1981 15:09 UTC",Space Shuttle Columbia | STS-2,StatusRetired,450.0,Success,USA
+2408,2408,NASA,USA,"Sun Apr 12, 1981 12:00 UTC",Space Shuttle Columbia | STS-1,StatusRetired,450.0,Success,USA
+3149,3149,NASA,USA,"Mon May 14, 1973 17:30 UTC",Saturn V | Skylab 1,StatusRetired,1160.0,Success,USA
+3180,3180,NASA,USA,"Tue Dec 19, 1972 19:24 UTC",Saturn V | Apollo 17,StatusRetired,1160.0,Success,USA
+3243,3243,NASA,USA,"Sun Apr 16, 1972 17:54 UTC",Saturn V | Apollo 16,StatusRetired,1160.0,Success,USA
+3328,3328,NASA,USA,"Mon Jul 26, 1971 13:34 UTC",Saturn V | Apollo 15,StatusRetired,1160.0,Success,USA
+3384,3384,NASA,USA,"Sun Jan 31, 1971 21:03 UTC",Saturn V | Apollo 14,StatusRetired,1160.0,Success,USA
+3475,3475,NASA,USA,"Sat Apr 11, 1970 19:13 UTC",Saturn V | Apollo 13,StatusRetired,1160.0,Success,USA
+3511,3511,NASA,USA,"Fri Nov 14, 1969 16:22 UTC",Saturn V | Apollo 12,StatusRetired,1160.0,Success,USA
+3545,3545,NASA,USA,"Wed Jul 16, 1969 13:32 UTC",Saturn V | Apollo 11,StatusRetired,1160.0,Success,USA
+3554,3554,US Air Force,USA,"Tue Jun 03, 1969 16:49 UTC",Titan IIIB | OPS 1077,StatusRetired,59.0,Success,USA
+3560,3560,NASA,USA,"Sun May 18, 1969 16:49 UTC",Saturn V | Apollo 10,StatusRetired,1160.0,Success,USA
+3563,3563,US Air Force,USA,"Tue Apr 15, 1969 17:30 UTC",Titan IIIB | OPS 5310,StatusRetired,59.0,Success,USA
+3583,3583,US Air Force,USA,"Tue Mar 04, 1969 19:30 UTC",Titan IIIB | OPS 4248,StatusRetired,59.0,Success,USA
+3584,3584,NASA,USA,"Mon Mar 03, 1969 16:00 UTC",Saturn V | Apollo 9,StatusRetired,1160.0,Success,USA
+3595,3595,US Air Force,USA,"Wed Jan 22, 1969 19:10 UTC",Titan IIIB | OPS 7585,StatusRetired,59.0,Success,USA
+3603,3603,NASA,USA,"Sat Dec 21, 1968 12:51 UTC",Saturn V | Apollo 8,StatusRetired,1160.0,Success,USA
+3609,3609,US Air Force,USA,"Wed Dec 04, 1968 19:23 UTC",Titan IIIB | OPS 6518,StatusRetired,59.0,Success,USA
+3618,3618,US Air Force,USA,"Wed Nov 06, 1968 19:10 UTC",Titan IIIB | OPS 5296,StatusRetired,59.0,Success,USA
+3645,3645,US Air Force,USA,"Tue Aug 06, 1968 18:30 UTC",Titan IIIB | OPS 5247,StatusRetired,59.0,Success,USA
+3646,3646,US Air Force,USA,"Tue Aug 06, 1968 16:33 UTC",Titan IIIB | OPS 5187,StatusRetired,59.0,Success,USA
+3662,3662,US Air Force,USA,"Wed Jun 05, 1968 17:31 UTC",Titan IIIB | OPS 5138,StatusRetired,59.0,Success,USA
+3677,3677,US Air Force,USA,"Wed Apr 17, 1968 17:00 UTC",Titan IIIB | OPS 5105,StatusRetired,59.0,Success,USA
+3683,3683,NASA,USA,"Thu Apr 04, 1968 12:00 UTC",Saturn V | Apollo 6,StatusRetired,1160.0,Partial Failure,USA
+3690,3690,US Air Force,USA,"Wed Mar 13, 1968 19:55 UTC",Titan IIIB | OPS 5057,StatusRetired,59.0,Success,USA
+3702,3702,US Air Force,USA,"Thu Jan 18, 1968 19:04 UTC",Titan IIIB | OPS 5028,StatusRetired,59.0,Success,USA
+3709,3709,US Air Force,USA,"Tue Dec 05, 1967 18:45 UTC",Titan IIIB | OPS 5000,StatusRetired,59.0,Success,USA
+3716,3716,NASA,USA,"Thu Nov 09, 1967 12:00 UTC",Saturn V | Apollo 4,StatusRetired,1160.0,Success,USA
+3725,3725,US Air Force,USA,"Wed Oct 25, 1967 19:15 UTC",Titan IIIB | OPS 4995,StatusRetired,59.0,Success,USA
+3737,3737,US Air Force,USA,"Tue Sep 19, 1967 18:28 UTC",Titan IIIB | OPS 4941,StatusRetired,59.0,Success,USA
+3746,3746,US Air Force,USA,"Wed Aug 16, 1967 17:02 UTC",Titan IIIB | OPS 4866,StatusRetired,59.0,Success,USA
+3758,3758,US Air Force,USA,"Tue Jun 20, 1967 16:19 UTC",Titan IIIB | OPS 4282,StatusRetired,59.0,Partial Failure,USA
+3779,3779,US Air Force,USA,"Wed Apr 26, 1967",Titan IIIB | OPS 4243,StatusRetired,59.0,Failure,USA
+3799,3799,US Air Force,USA,"Fri Feb 24, 1967 19:55 UTC",Titan IIIB | OPS 4204,StatusRetired,59.0,Success,USA
+3815,3815,US Air Force,USA,"Wed Dec 14, 1966 18:14 UTC",Titan IIIB | OPS 8968,StatusRetired,59.0,Success,USA
+3839,3839,US Air Force,USA,"Wed Sep 28, 1966 19:12 UTC",Titan IIIB | OPS 4096,StatusRetired,59.0,Success,USA
+3855,3855,US Air Force,USA,"Fri Jul 29, 1966 18:43 UTC",Titan IIIB | KH-8,StatusRetired,59.0,Success,USA
+3971,3971,US Air Force,USA,"Thu May 06, 1965 15:00 UTC",Titan IIIA | LES 2 & LCS 1,StatusRetired,63.23,Success,USA
+3993,3993,US Air Force,USA,"Thu Feb 11, 1965 15:19 UTC",Titan IIIA | LES 1,StatusRetired,63.23,Success,USA
+4000,4000,US Air Force,USA,"Thu Dec 10, 1964 16:52 UTC",Titan IIIA | Transtage 2,StatusRetired,63.23,Success,USA
+4020,4020,US Air Force,USA,"Tue Sep 01, 1964 15:00 UTC",Titan IIIA | Transtage 1,StatusRetired,63.23,Failure,USA
